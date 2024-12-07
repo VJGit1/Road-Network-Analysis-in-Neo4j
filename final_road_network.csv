@@ -1,0 +1,3001 @@
+city1,city2,distance
+Hayward,Meridian,220
+San Francisco,Blaine,854
+Haltom City,Anaheim,306
+Shreveport,Philadelphia,431
+Orange,Spokane,929
+South Gate,Rowlett,402
+Denton,Midland,868
+Keller,Pico Rivera,389
+Tempe,Palatine,875
+Tulsa,Bloomington,772
+North Miami,Houston,443
+Denton,Raleigh,957
+Burnsville,North Miami,390
+Highland,Gainesville,86
+North Richland Hills,Charlotte,726
+Kirkland,Rochester,637
+Valdosta,San Francisco,960
+San Ramon,Long Beach,253
+Ankeny,Fremont,593
+St. Peters,South Jordan,887
+Cleveland,Billings,76
+Euless,Kearny,879
+St. Peters,Tigard,728
+Parker,Hampton,237
+Lincoln,Hemet,736
+Lynchburg,Urbandale,828
+Carrollton,Spokane,874
+Las Vegas,Broken Arrow,999
+Marietta,Tampa,731
+Centennial,Escondido,77
+Stillwater,Grand Rapids,570
+Palm Bay,Grand Island,985
+Brooklyn Park,Bentonville,339
+Shawnee,Bristol,181
+Roseville,Highland,453
+Bozeman,Gilroy,929
+Mobile,Memphis,296
+Fremont,Riverton,166
+Garland,North Las Vegas,318
+Pomona,Dallas,741
+Auburn,Charlotte,786
+Stillwater,Bakersfield,541
+Taylor,West Haven,621
+Lubbock,Lynchburg,896
+Mason,Tulsa,744
+Florence,Thornton,152
+Missouri City,Carrollton,128
+Plymouth,Toledo,132
+San Ramon,Lake Elsinore,605
+Hemet,Lake Elsinore,935
+Hemet,Seattle,315
+Huntersville,Blaine,354
+Paramount,Auburn,329
+Burbank,West Sacramento,922
+Eden Prairie,Lincoln,78
+Richmond,Methuen,638
+Coachella,San Jose,92
+Lakewood,Macon,377
+Mobile,Shawnee,773
+Tampa,Orange,867
+Daly City,Carpentersville,176
+Tampa,Gainesville,665
+Roseville,Elizabethtown,624
+San Jose,Abilene,106
+Wheaton,Lawrence,934
+Richmond,Hampton,843
+Mission Viejo,Escondido,189
+Bozeman,Cambridge,322
+Milwaukee,Stillwater,269
+Round Rock,Roseville,465
+Roseville,Mount Pleasant,711
+Fremont,Missouri City,452
+Eau Claire,Berwyn,885
+Tulsa,Norwalk,252
+Rockford,Greeley,53
+Ankeny,Dallas,933
+Lincoln,Phoenix,756
+Riverton,Alpharetta,144
+Elizabethtown,Midland,725
+Bozeman,Daly City,297
+Carrollton,Blaine,550
+Wheaton,Shreveport,224
+White Plains,San Marcos,712
+Orange,Lauderhill,771
+Cleveland,Houston,960
+Lawrence,West Covina,969
+Memphis,Urbandale,136
+Goose Creek,Rochester,771
+Tulsa,Meridian,435
+Tigard,Denton,491
+West Haven,North Richland Hills,739
+Hampton,Toledo,63
+Gilroy,Victoria,153
+St. Peters,Plano,691
+Keller,Pompano Beach,527
+Richmond,North Miami,780
+Lake Havasu City,Asheboro,617
+Stillwater,Paramount,748
+Hemet,Highland,799
+Hoboken,Palm Beach Gardens,383
+Billings,Statesboro,505
+Newark,Lincoln,447
+Norwalk,Urbandale,402
+Tustin,Daly City,342
+Broken Arrow,Mesa,184
+Burien,Mason,727
+Atlanta,Palmdale,109
+Bentonville,Kirkland,253
+Daly City,Paramount,628
+Macon,Wichita Falls,127
+Altamonte Springs,Granite Bay,341
+New Brunswick,Round Rock,635
+Florence,Dearborn,840
+Burnsville,Glendale,147
+Carrollton,Hoffman Estates,601
+Eastvale,San Jose,785
+Marietta,Houston,484
+College Station,Milwaukee,779
+Berwyn,Orange,813
+Macon,Houston,439
+Phoenix,Mobile,125
+Eastvale,Simi Valley,716
+Downey,Baton Rouge,681
+Pico Rivera,Cambridge,791
+Oakland,Lake Havasu City,495
+Detroit,Lauderhill,329
+New York,Pomona,123
+Mesa,Victoria,249
+Huntersville,Escondido,176
+Stillwater,Blaine,479
+Methuen,Escondido,849
+Pompano Beach,Anaheim,990
+Parker,Fremont,824
+Palmdale,Meridian,934
+Simi Valley,Huntersville,315
+Baldwin Park,Alpharetta,154
+Seattle,Fort Worth,603
+West Covina,Tampa,464
+Fort Worth,Norwalk,122
+Wichita Falls,North Las Vegas,518
+Portland,Milwaukee,240
+New Brunswick,Lake Havasu City,117
+Conroe,Mission Viejo,257
+Mankato,Pomona,809
+Eden Prairie,St. Petersburg,462
+West Sacramento,Novi,190
+Midland,Rowlett,206
+Thornton,Burbank,568
+New Braunfels,Milford,202
+Methuen,Tallahassee,226
+Palmdale,Eastvale,291
+Mission Viejo,South Gate,726
+Denton,Parker,957
+Huntersville,Grand Island,548
+Abilene,Tigard,828
+Palmdale,South Gate,412
+Dearborn,Simi Valley,817
+New Brunswick,West Jordan,725
+Lakewood,Houston,847
+Plano,Rochester,239
+Taylor,Rowlett,554
+San Ramon,Round Rock,367
+Plymouth,Lynchburg,105
+Orange,Victorville,831
+Carlsbad,Goose Creek,995
+Phoenix,Hoffman Estates,879
+West Sacramento,Sunnyvale,240
+Greeley,Clearwater,426
+Novi,Victoria,52
+Shreveport,Cleveland,310
+Irvine,Houston,846
+Pomona,St. Petersburg,778
+Tustin,Bristol,360
+Lauderhill,Taylor,115
+West Jordan,Indianapolis,352
+Coachella,Lincoln,708
+Macon,Florence,568
+Statesboro,Round Rock,763
+Apple Valley,San Leandro,97
+Mason,Phoenix,424
+Detroit,Irvine,591
+Anaheim,Lake Havasu City,555
+New Braunfels,Glendale,611
+Kearny,Edmonds,211
+Bakersfield,Granite Bay,954
+Lakewood,West Jordan,595
+Rowlett,Kirkland,304
+Daly City,Meridian,636
+Pompano Beach,Granite Bay,405
+South Jordan,Keller,596
+Riverton,Bentonville,823
+Hemet,Oakland,519
+Denton,Grand Rapids,647
+Redmond,Chino,272
+Lincoln,Riverton,448
+Carrollton,Florence,506
+Evansville,Alpharetta,408
+Glendale,Boulder,885
+Centennial,Pomona,609
+North Richland Hills,Baldwin Park,898
+Henderson,North Las Vegas,128
+Grand Island,Roseville,262
+Broomfield,Wichita Falls,332
+Cambridge,Farmington Hills,215
+Stillwater,Shawnee,579
+Carpentersville,Dallas,991
+Salt Lake City,Palmdale,894
+Milwaukee,Riverton,613
+Salt Lake City,Carpentersville,349
+Carrollton,Eden Prairie,431
+Carpentersville,Brooklyn Park,582
+Lake Elsinore,Atlanta,702
+Garland,Edmonds,758
+West Jordan,Decatur,435
+Boulder,Tustin,247
+New Braunfels,North Las Vegas,182
+Midland,Victorville,580
+Hialeah,Atlanta,198
+Paramount,Evansville,190
+Raleigh,Bozeman,840
+Dallas,St. George,913
+Orange,Sunnyvale,70
+Granite Bay,Eden Prairie,926
+Chino,Atlanta,209
+Carrollton,Brooklyn Park,180
+Palm Beach Gardens,West Jordan,890
+Burien,Green Bay,434
+Laredo,Abilene,549
+Mason,Hoffman Estates,626
+Chino,Lake Elsinore,53
+Novi,Blaine,567
+Missouri City,Eau Claire,127
+Spokane,St. Petersburg,216
+Alpharetta,Burien,725
+West Sacramento,Lacey,705
+College Station,Laredo,61
+Richmond,Carrollton,584
+Highland,Middletown,200
+Apple Valley,Lawrence,669
+Broomfield,Taylor,664
+Edmonds,Florence,201
+Lakewood,Palm Beach Gardens,511
+White Plains,New York,723
+Newark,Carpentersville,603
+Sunnyvale,North Las Vegas,419
+Centennial,Dearborn,522
+Lake Havasu City,Broken Arrow,327
+Coachella,Shawnee,704
+North Miami,Salt Lake City,114
+Taylor,Shreveport,861
+San Francisco,Brooklyn Park,622
+Lubbock,Palm Bay,480
+Mount Pleasant,Oak Lawn,541
+Hialeah,Tallahassee,594
+Toledo,Baldwin Park,996
+Simi Valley,Elizabethtown,785
+Middletown,Tustin,305
+Farmington Hills,Lubbock,463
+Bloomington,Boynton Beach,913
+Glendale,Riverton,133
+Keller,Richmond,353
+Macon,Haltom City,966
+San Jose,Asheboro,185
+Long Beach,Statesboro,131
+Bell Gardens,Hoboken,554
+Hoboken,Carpentersville,618
+San Bruno,New York,85
+Gilroy,Burbank,964
+Plymouth,Broken Arrow,939
+Seattle,South Jordan,499
+Midland,Lubbock,175
+Rochester,Altamonte Springs,196
+Brooklyn Park,Lincoln,523
+Salt Lake City,Sunnyvale,436
+San Marcos,Carrollton,282
+San Leandro,Lake Havasu City,234
+Denton,Taylor,731
+Philadelphia,Tempe,962
+Anaheim,San Francisco,371
+Oak Lawn,Marietta,316
+Carlsbad,Hoboken,686
+Milford,Blaine,536
+Burien,Burnsville,604
+Florence,South Gate,299
+Bloomington,Riverton,230
+Palm Bay,San Jose,261
+Milwaukee,Decatur,744
+West Sacramento,North Richland Hills,540
+Raleigh,Roseville,428
+Houston,Victorville,58
+San Angelo,Las Vegas,88
+New Braunfels,Alpharetta,189
+Loveland,Gilroy,318
+Bozeman,Georgetown,93
+Lawrence,Detroit,482
+Bloomington,Carpentersville,437
+Wheaton,Carrollton,446
+Las Vegas,Carpentersville,206
+Baltimore,Roseville,672
+Sunnyvale,Glendale,763
+Cambridge,Eden Prairie,976
+Parker,Raleigh,973
+Carpentersville,Midland,383
+Coachella,Sunnyvale,802
+North Richland Hills,Fort Worth,693
+Keller,St. Petersburg,466
+Lacey,Parker,881
+San Jose,Shreveport,895
+Meridian,Lake Elsinore,586
+Palm Beach Gardens,Cleveland,608
+San Leandro,Fort Worth,145
+Missouri City,San Jose,743
+Lubbock,Midland,319
+Oklahoma City,Palm Bay,546
+Alpharetta,Raleigh,979
+Henderson,West Haven,386
+Stockton,Simi Valley,140
+Atlanta,Riverton,407
+San Francisco,Denton,353
+Mission Viejo,New Braunfels,228
+Lawrence,West Sacramento,441
+Centennial,Goose Creek,461
+Evansville,Bristol,63
+Auburn,Valdosta,208
+Lakewood,Haltom City,469
+Daly City,Anaheim,445
+Simi Valley,Clearwater,160
+Bell Gardens,Riverton,125
+Marietta,Missouri City,603
+Carrollton,Round Rock,347
+Cambridge,Henderson,927
+Cambridge,Burbank,592
+Hialeah,Decatur,216
+Boulder,Novi,961
+St. Peters,Tustin,667
+New Orleans,Abilene,561
+Shawnee,Wichita Falls,134
+Parker,Chino,213
+Oak Lawn,Raleigh,934
+Hialeah,Alpharetta,760
+Modesto,Tulsa,978
+Coachella,Lauderhill,54
+Lauderhill,Euless,111
+Grand Island,St. George,407
+Anaheim,Loveland,340
+Wichita Falls,Redmond,99
+Henderson,San Ramon,905
+Stockton,Lubbock,193
+West Jordan,Chino,737
+Tulsa,Mission Viejo,104
+Medford,Granite Bay,930
+Victorville,Pompano Beach,74
+Carlsbad,Baltimore,59
+Macon,West Sacramento,860
+New Orleans,Mobile,372
+Green Bay,Irvine,878
+New Braunfels,West Covina,462
+Redmond,Middletown,56
+Berwyn,Portland,593
+Shawnee,Hampton,534
+Auburn,Redmond,475
+Middletown,Richmond,97
+San Ramon,West Haven,339
+Dearborn,Modesto,473
+St. Peters,Atlanta,746
+Las Vegas,San Leandro,923
+Redmond,Fremont,975
+Gainesville,South Jordan,321
+Midland,Carpentersville,927
+Tulsa,College Station,536
+Bloomington,Shreveport,583
+Tulsa,Euless,621
+Tallahassee,Boynton Beach,493
+Lakewood,San Francisco,737
+Carlsbad,Wheaton,961
+Tempe,Lynchburg,308
+Lawrence,Spokane,444
+Pico Rivera,Salt Lake City,423
+Loveland,Statesboro,986
+Escondido,Oklahoma City,246
+Lincoln,Florence,984
+Marietta,Abilene,304
+Farmington Hills,Eastvale,890
+Georgetown,Highland,250
+Pico Rivera,Alpharetta,299
+Newark,Sunnyvale,96
+Missouri City,St. Petersburg,711
+Methuen,Dearborn,709
+Palm Beach Gardens,Green Bay,415
+Lawrence,Euless,825
+Tempe,North Miami,424
+Seattle,Pompano Beach,668
+Grand Rapids,Wichita Falls,894
+New Braunfels,North Miami,521
+Kearny,Berwyn,544
+Carlsbad,Rockford,123
+Houston,Gilroy,978
+Newark,Florence,747
+Lincoln,Midland,590
+Eau Claire,Bloomington,143
+Mankato,Norwalk,525
+Toledo,Hialeah,468
+Rancho Palos Verdes,Burbank,975
+Dallas,Lawrence,865
+Mason,Eden Prairie,839
+Philadelphia,Carrollton,669
+Eau Claire,Baton Rouge,849
+Methuen,Cleveland,274
+Dearborn,San Francisco,385
+South Jordan,New Braunfels,380
+Broken Arrow,Conroe,639
+North Richland Hills,Medford,223
+Riverton,Novi,258
+St. Clair Shores,St. Petersburg,648
+Oakland,Lawrence,954
+San Leandro,Mason,135
+Ankeny,Escondido,380
+Meridian,Bell Gardens,637
+St. George,Fremont,756
+Chino,Macon,121
+Grand Island,Hayward,119
+Broken Arrow,Ankeny,949
+Middletown,Clearwater,109
+Tigard,Shawnee,832
+Lacey,Long Beach,136
+Goose Creek,Thornton,967
+Mount Pleasant,San Ramon,489
+Newark,San Jose,550
+Escondido,Shreveport,858
+Lake Havasu City,Cleveland,107
+Wichita Falls,Fremont,442
+San Leandro,Boynton Beach,594
+Conroe,Keller,875
+Chino,Palm Bay,695
+Centennial,Newark,318
+Victoria,Keller,185
+Broomfield,Hayward,803
+Orange,Hemet,972
+Medford,Hialeah,391
+Midland,Eden Prairie,992
+Lake Elsinore,North Miami,259
+Chino,Boynton Beach,940
+Anaheim,Rowlett,553
+College Station,Tampa,491
+Oak Lawn,Salt Lake City,332
+Hayward,Evansville,67
+Farmington Hills,West Haven,702
+Grand Rapids,New Orleans,171
+Modesto,Orange,797
+Plymouth,Fort Worth,767
+Mankato,Atlanta,802
+Long Beach,Spokane,654
+Simi Valley,San Francisco,944
+Modesto,Broken Arrow,137
+Stillwater,Berwyn,691
+Paramount,Spokane,141
+Oklahoma City,Gainesville,829
+Burbank,Dallas,377
+Hemet,Shreveport,404
+San Marcos,Carrollton,766
+Broken Arrow,Wheaton,919
+Hemet,Salt Lake City,712
+Burnsville,St. Petersburg,931
+Grand Island,Sunnyvale,682
+Tampa,Pomona,845
+Pico Rivera,Lynchburg,243
+Wheaton,Euless,136
+Loveland,Palmdale,669
+Philadelphia,St. Petersburg,581
+Las Vegas,Asheboro,992
+Irvine,Evansville,320
+Tallahassee,Lubbock,763
+San Bruno,Conroe,941
+Mount Pleasant,Elizabethtown,604
+Missouri City,Riverton,745
+Tulsa,Rockford,633
+Plano,North Miami,113
+Mankato,Keller,270
+Richmond,Toledo,789
+Granite Bay,Chino,895
+San Francisco,Lacey,437
+Edmonds,Lake Elsinore,694
+Medford,Burien,640
+Kirkland,Hialeah,901
+Bloomington,San Jose,805
+Ankeny,Conroe,176
+Orange,Oklahoma City,467
+St. Petersburg,Auburn,553
+San Bruno,Edmonds,422
+Philadelphia,Oklahoma City,114
+Broomfield,Tampa,990
+Wichita Falls,New Braunfels,712
+Edmonds,Lacey,139
+Raleigh,Paramount,782
+Tustin,Decatur,509
+Farmington Hills,Macon,658
+Lincoln,Missouri City,947
+Bloomington,Midland,412
+Brooklyn Park,White Plains,269
+Statesboro,Laredo,140
+Oak Lawn,Tallahassee,247
+Meridian,Valdosta,846
+Brooklyn Park,Pompano Beach,541
+Fremont,San Marcos,645
+Lacey,Bloomington,628
+Decatur,Broken Arrow,619
+Middletown,Carrollton,298
+Gainesville,Newark,385
+Atlanta,Hoffman Estates,187
+Pompano Beach,Stockton,668
+Tampa,Toledo,601
+Rowlett,Elizabethtown,669
+Rancho Palos Verdes,Norwalk,603
+Riverton,Huntersville,393
+Rockford,Goose Creek,967
+Hoffman Estates,Cleveland,563
+Boulder,Cambridge,238
+Escondido,Tustin,970
+Carlsbad,Simi Valley,939
+Shreveport,Asheboro,830
+Milwaukee,Haltom City,464
+Tallahassee,Philadelphia,932
+West Covina,Charlotte,891
+College Station,Houston,1000
+Euless,White Plains,356
+Lake Havasu City,White Plains,911
+Garland,Kearny,475
+Goose Creek,Escondido,581
+Toledo,Carlsbad,980
+Brooklyn Park,Clearwater,315
+Taylor,Conroe,578
+New Braunfels,Loveland,200
+Elizabethtown,Eden Prairie,227
+Clearwater,Rockford,222
+Farmington Hills,Missouri City,244
+Irvine,Highland,103
+Detroit,Portland,451
+Long Beach,Burien,803
+Grand Island,Victorville,372
+Keller,Indianapolis,166
+Missouri City,Kearny,440
+Novi,Mesa,771
+Roseville,Altamonte Springs,155
+Taylor,College Station,283
+Palmdale,Richmond,667
+Cleveland,Florence,392
+Palm Bay,Salt Lake City,781
+Grand Rapids,Green Bay,970
+Indianapolis,Berwyn,910
+Asheboro,Spokane,389
+Centennial,Sunnyvale,896
+Escondido,Centennial,627
+Bell Gardens,Milford,877
+Haltom City,Palm Beach Gardens,423
+Burleson,San Francisco,861
+Lynchburg,Indianapolis,748
+New Brunswick,Riverton,402
+Broken Arrow,San Ramon,462
+Keller,Farmington Hills,247
+Mobile,Farmington Hills,864
+Anaheim,Urbandale,99
+Garland,San Bruno,744
+Palatine,North Miami,85
+Burnsville,South Gate,980
+Chino,Mason,109
+Tigard,Detroit,110
+Cleveland,Burien,100
+South Gate,Stockton,635
+St. Petersburg,Tampa,733
+Grand Island,Palm Bay,787
+Lincoln,Palm Bay,696
+Hoboken,Garland,200
+Redmond,Spokane,254
+Centennial,Baltimore,321
+Statesboro,Baton Rouge,303
+Altamonte Springs,Bentonville,718
+St. Clair Shores,Phoenix,576
+Georgetown,Lake Havasu City,155
+Irvine,Altamonte Springs,153
+Gainesville,Fremont,644
+Medford,West Covina,264
+Huntersville,Round Rock,940
+Lauderhill,Palm Beach Gardens,691
+Urbandale,Greeley,981
+Goose Creek,St. George,549
+Eau Claire,Cleveland,792
+Bozeman,Parker,160
+Mesa,Fremont,160
+Bristol,Apple Valley,310
+Keller,Lauderhill,59
+Lacey,Thornton,119
+Downey,Lubbock,560
+Boulder,Mesa,277
+West Sacramento,Conroe,253
+Orange,Paramount,410
+Hoboken,Burleson,885
+Toledo,Lincoln,69
+San Marcos,Euless,780
+Methuen,Rowlett,312
+Hialeah,Lauderhill,827
+Asheboro,Henderson,340
+Raleigh,Atlanta,89
+Alpharetta,Midland,973
+San Bruno,Macon,793
+Kearny,Oak Lawn,761
+Raleigh,South Jordan,570
+Green Bay,North Las Vegas,671
+Mankato,Chino,706
+Georgetown,Thornton,566
+Pico Rivera,Anaheim,838
+Blaine,Spokane,158
+San Marcos,Toledo,344
+San Leandro,Medford,242
+Burnsville,Medford,914
+Alpharetta,Green Bay,568
+Portland,Simi Valley,837
+Greeley,Philadelphia,783
+Toledo,Florence,150
+Decatur,Shawnee,525
+North Las Vegas,Shawnee,687
+Blaine,San Ramon,327
+West Covina,Baltimore,208
+Burbank,Valdosta,61
+Tustin,Lacey,274
+Orange,San Angelo,775
+Memphis,Auburn,659
+Greeley,Statesboro,172
+Missouri City,San Marcos,278
+Milwaukee,Eastvale,311
+Victoria,Eden Prairie,244
+Boynton Beach,Irvine,377
+Blaine,St. Peters,290
+Laredo,Modesto,935
+San Jose,Granite Bay,50
+New York,Philadelphia,116
+St. Peters,Orange,931
+Hampton,Oak Lawn,509
+Grand Island,New Braunfels,239
+Auburn,San Bruno,528
+Mesa,Bozeman,302
+Victorville,Gainesville,615
+Paramount,San Jose,139
+Burnsville,Philadelphia,715
+Kearny,Garland,643
+Victorville,Coachella,619
+Hoboken,Lake Elsinore,915
+Victoria,Carpentersville,357
+Oak Lawn,West Jordan,778
+Huntersville,Valdosta,396
+San Marcos,Redmond,398
+Carlsbad,Carpentersville,441
+Burien,Mesa,784
+Milwaukee,Lauderhill,64
+Coachella,Conroe,913
+Rowlett,Lake Havasu City,858
+North Richland Hills,Methuen,352
+Altamonte Springs,Dallas,454
+Green Bay,Hialeah,994
+Garland,Seattle,817
+Plymouth,Simi Valley,78
+College Station,Portland,541
+Philadelphia,Evansville,457
+Carpentersville,Conroe,519
+Evansville,San Ramon,62
+St. Petersburg,Tigard,675
+St. Peters,San Leandro,194
+Houston,Tigard,957
+Granite Bay,Grand Rapids,65
+Henderson,Bozeman,806
+Farmington Hills,West Covina,800
+Indianapolis,Baton Rouge,487
+Charlotte,Tampa,212
+Las Vegas,Rancho Palos Verdes,867
+Mission Viejo,St. George,677
+College Station,Oklahoma City,784
+Pico Rivera,West Covina,892
+Irvine,West Sacramento,557
+Medford,St. Petersburg,672
+San Jose,Edmonds,183
+Palatine,Carrollton,540
+Irvine,Green Bay,991
+Brooklyn Park,Lynchburg,746
+Salt Lake City,Conroe,508
+Grand Rapids,Henderson,303
+Baton Rouge,Elizabethtown,453
+Rancho Palos Verdes,Tallahassee,493
+Newark,South Gate,119
+St. Clair Shores,Lake Havasu City,649
+Grand Island,Indianapolis,771
+Carlsbad,Bell Gardens,410
+Bell Gardens,Downey,81
+St. Petersburg,Parker,608
+Blaine,Daly City,177
+Lawrence,North Las Vegas,473
+Oak Lawn,Spokane,197
+Atlanta,Simi Valley,978
+Granite Bay,Dearborn,321
+Stockton,Phoenix,508
+Hayward,Oak Lawn,796
+Baton Rouge,Carlsbad,941
+Charlotte,Oklahoma City,529
+Farmington Hills,Modesto,167
+Modesto,Grand Island,406
+White Plains,Rochester,495
+Chino,Victorville,336
+Hayward,Baton Rouge,746
+White Plains,Alpharetta,770
+Burnsville,San Bruno,697
+South Jordan,San Angelo,915
+Bristol,Round Rock,52
+Bristol,Tampa,255
+St. Petersburg,Euless,985
+Palm Bay,Baltimore,310
+Spokane,Newark,394
+New York,Palm Bay,166
+Oklahoma City,Statesboro,183
+Tampa,Oak Lawn,188
+Garland,Lakewood,95
+Middletown,Billings,64
+Altamonte Springs,Baltimore,222
+Middletown,Burnsville,219
+Glendale,Goose Creek,194
+Haltom City,Palatine,508
+Broomfield,Carpentersville,74
+Gainesville,Stockton,181
+Mission Viejo,Escondido,244
+Wheaton,Roseville,827
+Atlanta,Palatine,501
+Bakersfield,Round Rock,190
+South Gate,Bentonville,574
+Lacey,San Leandro,226
+San Jose,San Angelo,52
+Midland,Hemet,508
+Burbank,Indianapolis,422
+Palmdale,Houston,966
+Tempe,Palm Bay,283
+West Jordan,Gainesville,112
+Modesto,Elizabethtown,458
+Stockton,Burbank,557
+Palatine,Dearborn,511
+Hampton,Sunnyvale,424
+Boulder,Methuen,536
+Chino,Bentonville,368
+Greeley,Tampa,145
+Roseville,Modesto,236
+Detroit,Kirkland,469
+San Bruno,Bentonville,177
+Memphis,Lubbock,542
+Burien,New Brunswick,475
+Green Bay,St. Petersburg,926
+Huntersville,Gilroy,307
+Euless,Newark,446
+Lake Havasu City,Rockford,272
+West Haven,Loveland,990
+Victorville,Bloomington,123
+Medford,Coachella,632
+Gainesville,Burnsville,657
+Grand Island,Plymouth,367
+Pico Rivera,Statesboro,473
+St. Petersburg,Rancho Palos Verdes,437
+Houston,Mobile,803
+Hialeah,Greeley,364
+Lincoln,Spokane,856
+Mount Pleasant,Round Rock,689
+Long Beach,Stockton,538
+Hampton,Marietta,358
+New York,Gainesville,632
+Ankeny,Tallahassee,811
+Tulsa,Raleigh,780
+Milwaukee,Raleigh,946
+Huntersville,Henderson,997
+Orange,St. Clair Shores,829
+Gainesville,San Marcos,529
+North Richland Hills,Sunnyvale,428
+Parker,Bristol,594
+Hayward,Memphis,844
+West Jordan,Broken Arrow,571
+Meridian,New Braunfels,751
+Victorville,San Bruno,779
+New Orleans,Paramount,140
+Abilene,Lake Elsinore,974
+Fort Worth,Bristol,284
+Daly City,Atlanta,345
+Spokane,Simi Valley,934
+Centennial,Middletown,744
+Glendale,Boulder,933
+North Las Vegas,San Angelo,964
+Riverton,Haltom City,323
+Tustin,San Marcos,523
+Lynchburg,Philadelphia,307
+Mesa,Pompano Beach,717
+Palatine,Boulder,566
+Mobile,Urbandale,211
+New Braunfels,Long Beach,298
+Spokane,New Brunswick,526
+New Orleans,Tallahassee,265
+Burnsville,Missouri City,938
+Lynchburg,Stillwater,821
+Centennial,Irvine,608
+Lynchburg,Edmonds,502
+Clearwater,Tampa,223
+Boynton Beach,Salt Lake City,508
+Thornton,Lake Havasu City,444
+Mission Viejo,Conroe,157
+Long Beach,Bloomington,545
+Pomona,St. Clair Shores,781
+Thornton,Abilene,231
+New York,San Marcos,291
+Taylor,Bloomington,940
+Altamonte Springs,Haltom City,586
+Milford,Victorville,60
+Rochester,Detroit,592
+Simi Valley,Seattle,644
+Palatine,Burbank,364
+Tampa,Haltom City,164
+Plymouth,Apple Valley,743
+Milford,Baltimore,741
+Grand Rapids,Bell Gardens,620
+Escondido,Eau Claire,781
+Thornton,St. Clair Shores,305
+Oak Lawn,Brooklyn Park,765
+Blaine,Raleigh,547
+Detroit,Victoria,643
+Lake Havasu City,Kearny,885
+Bell Gardens,Irvine,797
+Oak Lawn,Lake Elsinore,85
+Henderson,Paramount,824
+Bentonville,West Sacramento,455
+San Marcos,Marietta,144
+Centennial,Baton Rouge,413
+Billings,Midland,895
+Conroe,Wheaton,199
+New York,Coachella,649
+Goose Creek,Memphis,739
+Anaheim,Milford,602
+Coachella,Hayward,423
+Irvine,Garland,418
+Pompano Beach,Lake Havasu City,155
+Baton Rouge,Bell Gardens,99
+Escondido,Loveland,526
+Mission Viejo,Taylor,345
+South Gate,Billings,587
+Chino,Lynchburg,406
+Apple Valley,Stillwater,145
+Roseville,North Las Vegas,334
+Auburn,Keller,725
+Centennial,Burleson,367
+Paramount,Las Vegas,693
+Pomona,Tigard,347
+Henderson,Round Rock,105
+Fremont,Burleson,402
+San Leandro,Conroe,379
+Cambridge,Bakersfield,189
+Chino,Kearny,53
+Newark,Green Bay,328
+Victoria,Dearborn,523
+St. Clair Shores,Lawrence,444
+Milwaukee,Hemet,981
+Las Vegas,Bozeman,486
+Hemet,Middletown,579
+Highland,Abilene,217
+Lawrence,Bentonville,431
+West Sacramento,Berwyn,343
+Chino,Decatur,802
+Rowlett,Carlsbad,98
+Norwalk,Rancho Palos Verdes,260
+Mount Pleasant,Abilene,531
+Statesboro,Portland,870
+Boynton Beach,Alpharetta,608
+Rancho Palos Verdes,Kirkland,433
+Escondido,Mason,90
+Brooklyn Park,Granite Bay,138
+Anaheim,Centennial,404
+Conroe,Bristol,941
+Meridian,Lacey,402
+Euless,Georgetown,185
+Novi,Baton Rouge,898
+Norwalk,North Richland Hills,802
+Roseville,Burleson,668
+Farmington Hills,Sunnyvale,681
+Kirkland,Pompano Beach,867
+Macon,Loveland,100
+Brooklyn Park,Riverton,972
+North Las Vegas,Cambridge,600
+Riverton,Round Rock,341
+Haltom City,Tallahassee,198
+Thornton,Downey,500
+Bakersfield,Parker,772
+Chino,Victoria,795
+Edmonds,White Plains,133
+Portland,Lynchburg,537
+Baton Rouge,Lubbock,72
+Auburn,Missouri City,389
+Bristol,Stockton,712
+Asheboro,Baltimore,596
+Hialeah,Pompano Beach,689
+Euless,Fort Worth,213
+Plano,Haltom City,200
+Downey,Ankeny,79
+Baton Rouge,Norwalk,547
+Cambridge,Bakersfield,580
+Shawnee,Phoenix,454
+Tempe,Escondido,621
+Greeley,Eau Claire,633
+Shreveport,Atlanta,514
+Fort Worth,Broomfield,850
+Baltimore,Palm Beach Gardens,180
+Irvine,Huntersville,382
+Redmond,Bakersfield,934
+Anaheim,Indianapolis,849
+Berwyn,Oklahoma City,949
+Philadelphia,Billings,594
+Lacey,St. Peters,766
+Missouri City,Simi Valley,574
+New Braunfels,Clearwater,381
+Plymouth,Boulder,129
+Detroit,Toledo,782
+Missouri City,Mason,73
+Modesto,Seattle,934
+Green Bay,Mobile,94
+Hemet,Oakland,722
+New Braunfels,Highland,636
+Plymouth,San Leandro,487
+Boulder,Green Bay,524
+Green Bay,Cambridge,582
+Wichita Falls,Boulder,452
+Grand Island,Norwalk,731
+Palatine,Kearny,175
+Cleveland,Phoenix,995
+West Sacramento,Long Beach,259
+Asheboro,Palm Bay,624
+Lake Elsinore,West Sacramento,97
+Florence,Lawrence,411
+South Jordan,Tustin,972
+Greeley,Redmond,76
+Billings,Centennial,579
+Boulder,Chino,386
+Carrollton,Lake Elsinore,584
+Kirkland,Bloomington,377
+Grand Island,Ankeny,413
+Hoffman Estates,Medford,292
+Hialeah,Brooklyn Park,169
+Blaine,Sunnyvale,712
+Downey,Broken Arrow,657
+Fort Worth,Oakland,840
+Mount Pleasant,Round Rock,717
+Blaine,Norwalk,862
+San Jose,Hoboken,195
+Mason,Boulder,303
+Fremont,Seattle,149
+Broomfield,Downey,952
+San Francisco,Henderson,186
+Haltom City,Midland,906
+West Haven,Long Beach,774
+Huntersville,Atlanta,703
+Charlotte,Keller,829
+Florence,Memphis,75
+Toledo,West Covina,112
+Plymouth,Bloomington,472
+Memphis,Paramount,979
+Wheaton,Hemet,715
+Highland,Stockton,717
+Henderson,South Gate,428
+Green Bay,Goose Creek,166
+Carrollton,Round Rock,911
+Fort Worth,Roseville,735
+Orange,St. Petersburg,812
+Edmonds,Middletown,849
+Greeley,Mount Pleasant,112
+Fort Worth,South Gate,71
+Carpentersville,Mission Viejo,465
+White Plains,Burnsville,372
+Salt Lake City,Daly City,828
+Broomfield,Las Vegas,234
+Mason,Victoria,921
+Asheboro,Carlsbad,658
+Parker,Midland,799
+Plymouth,Roseville,320
+Plano,Boynton Beach,152
+Missouri City,White Plains,408
+Medford,Raleigh,741
+Mesa,Florence,624
+Pico Rivera,Victorville,617
+Missouri City,College Station,120
+Victorville,Taylor,105
+Shreveport,Round Rock,206
+Burnsville,Statesboro,775
+Parker,Euless,516
+Victoria,Hoffman Estates,164
+Thornton,West Jordan,132
+San Angelo,Redmond,723
+Grand Island,Burleson,816
+Bell Gardens,Middletown,176
+Indianapolis,Memphis,893
+Long Beach,Wichita Falls,699
+Lake Elsinore,Baton Rouge,232
+Broken Arrow,Modesto,72
+North Las Vegas,Philadelphia,840
+New Braunfels,Thornton,741
+Detroit,Tallahassee,910
+Broomfield,Keller,592
+Alpharetta,Bentonville,61
+St. Peters,Hialeah,962
+Lake Elsinore,Urbandale,275
+Valdosta,Tempe,294
+Lynchburg,Fremont,61
+Wheaton,Indianapolis,618
+Billings,Richmond,831
+Laredo,West Covina,146
+Apple Valley,Rochester,506
+Salt Lake City,Gainesville,129
+Lincoln,Altamonte Springs,646
+West Jordan,Rochester,982
+Hoffman Estates,Detroit,204
+Missouri City,Burleson,163
+Blaine,Edmonds,841
+Grand Rapids,Orange,569
+Huntersville,San Bruno,681
+Portland,St. George,210
+Medford,Paramount,714
+Palm Bay,Marietta,412
+Lake Havasu City,Burnsville,603
+Rancho Palos Verdes,Charlotte,602
+Hampton,Baton Rouge,579
+Pomona,Orange,502
+West Covina,Granite Bay,923
+San Angelo,Rockford,491
+Loveland,St. Clair Shores,396
+Garland,North Las Vegas,506
+Bloomington,Huntersville,365
+Burien,Thornton,546
+Coachella,Thornton,892
+Burien,Burnsville,709
+Highland,Rowlett,373
+Goose Creek,Grand Island,284
+Pompano Beach,Broomfield,134
+Wichita Falls,San Leandro,712
+Burnsville,Dallas,860
+Glendale,Baldwin Park,272
+Palm Bay,San Bruno,146
+San Francisco,Pomona,61
+Grand Rapids,Cleveland,520
+St. George,Philadelphia,778
+Lawrence,Paramount,865
+Rockford,Burnsville,369
+Thornton,Cambridge,361
+Sunnyvale,Loveland,517
+Rochester,Charlotte,935
+Billings,Methuen,756
+Glendale,Georgetown,162
+Hampton,Paramount,184
+Lincoln,Green Bay,172
+Hoffman Estates,Novi,998
+Milwaukee,Missouri City,779
+Salt Lake City,New York,287
+Valdosta,Charlotte,564
+Coachella,Tempe,508
+Houston,Modesto,201
+Eden Prairie,Broomfield,441
+Bakersfield,Escondido,367
+Raleigh,Philadelphia,981
+Statesboro,Rockford,474
+Hoboken,Raleigh,528
+New Brunswick,Escondido,362
+West Sacramento,Rockford,452
+West Covina,San Marcos,506
+Bentonville,Tempe,396
+Tallahassee,Berwyn,324
+Macon,Carpentersville,113
+New Brunswick,Palmdale,729
+Paramount,Bentonville,859
+Burnsville,Tulsa,475
+Statesboro,Lauderhill,725
+San Francisco,Houston,127
+Grand Rapids,Methuen,412
+Broomfield,Pompano Beach,647
+Victorville,Spokane,321
+St. Peters,Redmond,543
+Spokane,Lake Havasu City,628
+Kirkland,West Sacramento,593
+San Francisco,Bristol,133
+Shawnee,Kearny,164
+West Haven,Garland,258
+Simi Valley,Seattle,584
+Mobile,Pomona,243
+Gainesville,St. Peters,630
+Plano,Burien,144
+Las Vegas,Bozeman,269
+Simi Valley,San Jose,782
+Richmond,Newark,806
+Cambridge,Abilene,77
+Lacey,Euless,607
+Grand Island,Detroit,311
+Mason,Boynton Beach,716
+Baldwin Park,Green Bay,158
+Richmond,Tigard,378
+Tampa,Lake Havasu City,58
+Lubbock,College Station,172
+Granite Bay,Mason,852
+Rancho Palos Verdes,Atlanta,734
+Lincoln,Escondido,593
+Goose Creek,Wheaton,147
+Midland,Decatur,217
+Broomfield,Bell Gardens,553
+Palm Beach Gardens,Rowlett,607
+Round Rock,Wichita Falls,569
+Fremont,Rockford,747
+Statesboro,Palatine,547
+Chino,Goose Creek,556
+Orange,Brooklyn Park,660
+Altamonte Springs,Green Bay,777
+Lauderhill,Pico Rivera,747
+San Leandro,Irvine,444
+Thornton,San Angelo,381
+St. George,Tampa,385
+Bristol,St. George,907
+Palm Bay,Hayward,247
+Pompano Beach,Brooklyn Park,497
+Glendale,South Gate,466
+Phoenix,Redmond,669
+Lakewood,Decatur,245
+Grand Rapids,San Francisco,948
+Cambridge,West Covina,543
+Bozeman,Mankato,469
+Charlotte,North Las Vegas,714
+Sunnyvale,Toledo,131
+West Jordan,Sunnyvale,435
+Rowlett,Norwalk,552
+Brooklyn Park,Plymouth,192
+Wichita Falls,Burnsville,998
+Escondido,Baton Rouge,436
+Palatine,Carrollton,744
+Henderson,Parker,197
+Palmdale,Cambridge,400
+Evansville,South Jordan,165
+Urbandale,Philadelphia,336
+Alpharetta,Euless,701
+Clearwater,Bell Gardens,497
+Hialeah,Grand Rapids,729
+Fort Worth,St. Peters,784
+Taylor,Bentonville,693
+Detroit,Downey,845
+Eau Claire,Hoffman Estates,352
+Florence,Atlanta,903
+Spokane,Palm Beach Gardens,450
+Shreveport,Redmond,705
+Downey,Grand Rapids,318
+Rochester,Taylor,89
+Dearborn,Grand Rapids,681
+Stockton,Tulsa,371
+Evansville,Mount Pleasant,314
+Kearny,Lake Havasu City,552
+Bell Gardens,Hemet,241
+Spokane,Escondido,52
+Plymouth,Kirkland,728
+Blaine,Richmond,272
+Bloomington,Carlsbad,189
+Bristol,Newark,213
+Lincoln,Round Rock,621
+Methuen,Eden Prairie,749
+Las Vegas,Mesa,158
+Burien,Palmdale,435
+Houston,Kirkland,702
+Mobile,Carlsbad,132
+Bell Gardens,St. Clair Shores,870
+Hoffman Estates,Bentonville,124
+Memphis,Lubbock,429
+Decatur,Pico Rivera,453
+Bell Gardens,Las Vegas,559
+Blaine,Kirkland,848
+Hoboken,Farmington Hills,274
+Lauderhill,Mission Viejo,638
+San Leandro,Houston,91
+Bell Gardens,Charlotte,537
+Clearwater,Novi,635
+Clearwater,Lake Elsinore,690
+Hampton,Anaheim,397
+Baton Rouge,Eden Prairie,235
+Bentonville,Palm Beach Gardens,520
+Lawrence,Charlotte,61
+Denton,Palm Beach Gardens,53
+San Francisco,Loveland,97
+New Braunfels,Modesto,970
+West Jordan,Bentonville,928
+Redmond,Round Rock,102
+North Miami,Downey,967
+North Richland Hills,Stillwater,630
+Tulsa,Bristol,85
+Bakersfield,Oak Lawn,803
+North Las Vegas,Downey,478
+Valdosta,Portland,651
+Brooklyn Park,Raleigh,169
+Abilene,Granite Bay,354
+Medford,Denton,643
+New Braunfels,Oak Lawn,785
+Hayward,Boulder,457
+Burbank,Abilene,374
+Roseville,Baldwin Park,359
+Raleigh,Lauderhill,152
+Stockton,College Station,735
+Hampton,Carlsbad,614
+Raleigh,Clearwater,826
+Auburn,Lawrence,684
+Rowlett,St. George,597
+Fremont,Escondido,339
+Tampa,Newark,946
+Greeley,Hayward,547
+Mason,Plymouth,438
+Wichita Falls,Phoenix,848
+Plymouth,Mobile,172
+Round Rock,Salt Lake City,289
+New Orleans,Anaheim,471
+Euless,Lincoln,555
+Simi Valley,Lakewood,198
+Stillwater,Mason,171
+Tempe,Centennial,904
+West Covina,Toledo,861
+Keller,Burien,914
+Broken Arrow,Detroit,809
+Henderson,Richmond,403
+Lacey,Eau Claire,527
+Norwalk,Cambridge,394
+Eastvale,Lake Havasu City,203
+Henderson,Midland,80
+Rochester,Statesboro,433
+Boulder,San Angelo,357
+Alpharetta,New Brunswick,367
+Decatur,Conroe,717
+Euless,Conroe,733
+South Gate,Lubbock,220
+Burien,Burbank,821
+Hoboken,Loveland,917
+Garland,Burbank,347
+Mankato,St. Petersburg,665
+Hampton,Mission Viejo,303
+Lynchburg,St. George,807
+Oak Lawn,Ankeny,149
+Hialeah,Shreveport,74
+Rancho Palos Verdes,Broomfield,632
+Rancho Palos Verdes,White Plains,165
+Gainesville,Valdosta,862
+Hoffman Estates,Houston,184
+Eden Prairie,Indianapolis,695
+Redmond,St. Clair Shores,845
+Hoffman Estates,New Braunfels,776
+Plano,Altamonte Springs,561
+Meridian,San Bruno,954
+Elizabethtown,Victorville,260
+Lakewood,Conroe,554
+Sunnyvale,Mission Viejo,436
+Las Vegas,Burnsville,57
+Conroe,Florence,834
+Shawnee,White Plains,637
+Roseville,San Francisco,976
+San Leandro,Boulder,266
+Lynchburg,Orange,471
+Hemet,Simi Valley,97
+St. Petersburg,Kirkland,612
+Edmonds,Boynton Beach,735
+Farmington Hills,Statesboro,207
+North Las Vegas,Bentonville,338
+Oklahoma City,Burbank,336
+Palatine,Bloomington,593
+Salt Lake City,Milwaukee,440
+Seattle,Cleveland,308
+South Gate,Dearborn,405
+Escondido,South Gate,365
+Parker,Lacey,496
+Irvine,Keller,270
+White Plains,Mount Pleasant,183
+Oklahoma City,Paramount,409
+Green Bay,North Richland Hills,927
+Coachella,Broken Arrow,386
+Baton Rouge,New Orleans,832
+Elizabethtown,Bozeman,467
+Sunnyvale,Green Bay,274
+Bloomington,Spokane,312
+Lake Elsinore,Lacey,938
+Rowlett,Garland,485
+Tallahassee,Escondido,99
+Milwaukee,South Jordan,868
+Mason,Gilroy,427
+Decatur,Charlotte,731
+Cleveland,Round Rock,599
+Tustin,San Bruno,435
+New Braunfels,Medford,122
+Lacey,St. George,96
+Broomfield,Kearny,677
+Grand Island,Rancho Palos Verdes,458
+Bentonville,New Braunfels,717
+South Gate,Valdosta,381
+Mankato,Altamonte Springs,983
+Denton,Alpharetta,116
+Dallas,Eastvale,261
+Ankeny,Bentonville,810
+South Gate,Pomona,138
+Carlsbad,San Ramon,365
+Alpharetta,Palm Beach Gardens,752
+Carpentersville,Gilroy,764
+South Jordan,Plano,756
+Roseville,Keller,150
+Dallas,Evansville,636
+Charlotte,Tallahassee,941
+Shawnee,Coachella,217
+West Sacramento,San Bruno,757
+Rochester,Roseville,931
+South Gate,Burleson,106
+Stillwater,Thornton,923
+Norwalk,Oak Lawn,736
+Clearwater,Pico Rivera,237
+North Miami,Elizabethtown,769
+Henderson,New Orleans,886
+Midland,Meridian,861
+Abilene,Wichita Falls,984
+Detroit,Statesboro,524
+Thornton,Macon,965
+Goose Creek,Plymouth,228
+North Las Vegas,Seattle,471
+Kearny,Tulsa,377
+North Richland Hills,Laredo,456
+Toledo,Memphis,72
+Middletown,West Sacramento,57
+Eastvale,Toledo,537
+Lake Havasu City,North Las Vegas,892
+Conroe,Victoria,164
+Keller,Huntersville,274
+Lake Elsinore,Midland,692
+Lakewood,Blaine,236
+Tustin,New Braunfels,456
+Hampton,Medford,633
+Burbank,White Plains,951
+Broomfield,San Jose,382
+Phoenix,Medford,701
+South Jordan,Salt Lake City,201
+San Marcos,San Jose,650
+Hialeah,Seattle,74
+Wichita Falls,Green Bay,414
+Clearwater,Bell Gardens,604
+Simi Valley,Redmond,117
+Greeley,Farmington Hills,886
+Garland,San Marcos,599
+Philadelphia,Daly City,522
+Pompano Beach,Cleveland,64
+San Marcos,New Orleans,717
+Mason,Lawrence,726
+Eden Prairie,San Angelo,220
+Grand Rapids,Hialeah,716
+Milwaukee,Plano,267
+Highland,Chino,321
+Atlanta,Bell Gardens,820
+San Angelo,Raleigh,655
+Thornton,Fort Worth,196
+Richmond,Anaheim,442
+Denton,Statesboro,707
+Lake Elsinore,Altamonte Springs,274
+Berwyn,Lake Havasu City,529
+Midland,Macon,413
+Centennial,Dallas,622
+St. Peters,New Brunswick,296
+Portland,New Orleans,310
+Middletown,San Jose,823
+Orange,Hemet,409
+Marietta,North Miami,614
+New York,Boynton Beach,783
+Baton Rouge,Statesboro,637
+Huntersville,Goose Creek,297
+Greeley,Lynchburg,982
+Marietta,Novi,565
+Centennial,San Jose,74
+Clearwater,Dearborn,307
+Haltom City,Hoboken,607
+Bozeman,Georgetown,544
+Victoria,Missouri City,515
+Methuen,Bell Gardens,394
+Burien,Riverton,395
+Escondido,Eau Claire,243
+Laredo,Highland,155
+Wheaton,Anaheim,360
+Taylor,Grand Island,990
+Oakland,San Leandro,454
+Boulder,Lake Havasu City,908
+Huntersville,Burleson,617
+San Marcos,Wichita Falls,762
+Spokane,Dearborn,822
+West Jordan,Chino,59
+Denton,Gainesville,792
+Wichita Falls,Decatur,769
+West Haven,West Jordan,915
+Atlanta,Kirkland,144
+Missouri City,Grand Rapids,940
+Tustin,Baltimore,834
+Lake Havasu City,Fort Worth,882
+Burnsville,Greeley,55
+Taylor,San Jose,892
+Tampa,Berwyn,707
+Statesboro,St. George,340
+Norwalk,White Plains,286
+Highland,Baldwin Park,684
+Kearny,Milwaukee,449
+Alpharetta,Newark,437
+Tempe,Baldwin Park,362
+South Gate,Bakersfield,479
+Missouri City,West Jordan,979
+New Brunswick,Boulder,129
+Novi,Kirkland,484
+Rancho Palos Verdes,Rowlett,908
+Victoria,New York,681
+Burnsville,Anaheim,972
+Baldwin Park,Victorville,285
+Redmond,Garland,658
+Green Bay,Baltimore,507
+Dallas,Altamonte Springs,245
+Mobile,Detroit,810
+Hampton,Glendale,576
+Plano,Stockton,690
+Palmdale,Pompano Beach,982
+Victoria,Philadelphia,440
+Berwyn,Lake Elsinore,561
+Meridian,Kearny,428
+Hialeah,Roseville,826
+New York,West Jordan,185
+Decatur,Euless,123
+Oak Lawn,Irvine,648
+Mesa,Lakewood,389
+Lubbock,St. Clair Shores,983
+Mesa,Tustin,961
+North Richland Hills,Redmond,426
+Asheboro,Mesa,377
+Richmond,Gilroy,792
+Pico Rivera,Mankato,282
+North Richland Hills,Blaine,193
+Kearny,Lauderhill,952
+Euless,Burleson,600
+Milford,Tampa,447
+Hialeah,Broomfield,301
+Bozeman,Wichita Falls,265
+Long Beach,Tigard,566
+Chino,Burien,768
+Coachella,Carpentersville,892
+Laredo,Mobile,161
+Carpentersville,Hoffman Estates,305
+Bristol,Hoboken,291
+Fremont,Lauderhill,515
+White Plains,Brooklyn Park,816
+Novi,Parker,315
+Broken Arrow,San Marcos,722
+Daly City,Baldwin Park,779
+Philadelphia,Greeley,619
+College Station,Newark,241
+Greeley,Altamonte Springs,409
+Redmond,Grand Island,843
+Hialeah,Carlsbad,77
+Rancho Palos Verdes,Granite Bay,297
+Oakland,Pompano Beach,748
+Bozeman,Pico Rivera,702
+Burien,Seattle,654
+Eau Claire,Coachella,605
+Detroit,Shawnee,791
+Broken Arrow,Baltimore,428
+North Richland Hills,Bristol,891
+Oak Lawn,Middletown,342
+Cleveland,Florence,897
+White Plains,Berwyn,811
+Baldwin Park,Mount Pleasant,341
+Haltom City,Phoenix,526
+Taylor,Oklahoma City,194
+Wheaton,Fremont,239
+Oakland,Tustin,850
+Round Rock,San Angelo,793
+New York,Oak Lawn,822
+Lake Elsinore,Thornton,574
+Downey,Lake Elsinore,265
+Escondido,Farmington Hills,53
+Burien,Carpentersville,107
+Victorville,Irvine,190
+Denton,Shawnee,904
+Shreveport,Taylor,905
+Rancho Palos Verdes,Irvine,306
+Broomfield,Elizabethtown,74
+St. Petersburg,Rochester,408
+Huntersville,Plymouth,511
+Evansville,Raleigh,313
+Rochester,San Bruno,453
+Granite Bay,Gainesville,381
+Escondido,Lake Elsinore,406
+Burbank,Bloomington,367
+Carrollton,Portland,653
+Evansville,Marietta,792
+Laredo,Eau Claire,761
+Roseville,Rowlett,766
+Bozeman,Chino,319
+Edmonds,Boynton Beach,530
+Richmond,Hoffman Estates,216
+Abilene,Daly City,109
+Norwalk,Charlotte,298
+Rockford,Elizabethtown,109
+White Plains,San Leandro,730
+Gainesville,Lynchburg,502
+Elizabethtown,Lubbock,304
+Tempe,Palm Beach Gardens,828
+Eau Claire,Burbank,405
+Mesa,Long Beach,60
+Chino,Seattle,89
+Euless,Missouri City,990
+Sunnyvale,Hayward,844
+Tulsa,Irvine,108
+Chino,Medford,95
+Fremont,Novi,880
+New Orleans,Bell Gardens,271
+Stockton,Simi Valley,563
+Rockford,Loveland,93
+St. Petersburg,Simi Valley,193
+Abilene,Mobile,529
+Plano,Lincoln,608
+Florence,Newark,832
+Haltom City,Medford,151
+Brooklyn Park,Urbandale,320
+Lake Elsinore,Hoffman Estates,919
+Tampa,Dearborn,859
+Toledo,Tigard,952
+Berwyn,Eden Prairie,649
+Portland,Shawnee,821
+Oklahoma City,Grand Rapids,630
+Keller,Baton Rouge,246
+Mason,Grand Rapids,930
+Altamonte Springs,New Brunswick,902
+Palm Bay,Detroit,864
+Boulder,Gainesville,847
+Rockford,San Francisco,831
+St. Peters,Memphis,554
+Highland,Dearborn,74
+San Jose,Thornton,350
+Plymouth,Long Beach,366
+Blaine,Indianapolis,492
+Detroit,South Gate,817
+Plano,Roseville,228
+Mission Viejo,Philadelphia,627
+Conroe,Methuen,910
+Georgetown,Burbank,649
+Blaine,Grand Rapids,339
+Las Vegas,Lauderhill,841
+Milwaukee,Gainesville,756
+Parker,Kearny,783
+Clearwater,New Orleans,207
+San Marcos,Auburn,74
+Asheboro,Fremont,152
+West Covina,Mission Viejo,928
+Tigard,San Ramon,938
+Marietta,Wichita Falls,219
+Norwalk,San Marcos,460
+Palm Beach Gardens,Methuen,359
+Cleveland,Novi,825
+Granite Bay,West Haven,428
+Tulsa,Memphis,931
+Bakersfield,Lynchburg,351
+St. Petersburg,Paramount,580
+Wheaton,Atlanta,298
+Hialeah,Medford,141
+Palatine,Palm Bay,728
+Anaheim,Grand Rapids,824
+North Miami,Plymouth,952
+Marietta,Burbank,294
+Thornton,Stillwater,72
+Conroe,San Marcos,847
+Tempe,Taylor,837
+Palm Bay,Roseville,635
+Thornton,Henderson,269
+Henderson,Mobile,819
+Georgetown,Irvine,802
+Redmond,Anaheim,898
+Daly City,Altamonte Springs,160
+Valdosta,Stockton,714
+Alpharetta,Shreveport,465
+Billings,Georgetown,248
+Wheaton,Hoffman Estates,303
+Richmond,Kearny,268
+Hoffman Estates,Shreveport,395
+Abilene,Eastvale,309
+South Jordan,Tustin,627
+San Angelo,New York,344
+Bozeman,Oakland,87
+Seattle,Plano,921
+Mason,Oakland,914
+Burbank,Carpentersville,660
+Huntersville,Midland,72
+Lakewood,Sunnyvale,196
+Tustin,Salt Lake City,731
+Burien,Kirkland,72
+Highland,St. George,464
+Alpharetta,Palm Bay,270
+Palm Beach Gardens,Phoenix,562
+Modesto,Las Vegas,269
+South Jordan,West Jordan,392
+Lacey,Statesboro,132
+Fort Worth,Methuen,452
+Rancho Palos Verdes,Kirkland,105
+Lawrence,Tustin,60
+San Jose,Tallahassee,820
+Broken Arrow,Baltimore,783
+Broomfield,Mount Pleasant,531
+Eastvale,Brooklyn Park,404
+Oak Lawn,Rockford,615
+White Plains,Fremont,854
+Anaheim,Clearwater,624
+Loveland,Tampa,464
+Hemet,Pomona,916
+Lakewood,Dallas,249
+Lake Elsinore,Rochester,394
+Elizabethtown,Seattle,94
+Mesa,Bristol,609
+Salt Lake City,Boulder,547
+Simi Valley,Anaheim,262
+Alpharetta,Lauderhill,789
+Novi,Mobile,192
+Mesa,Sunnyvale,240
+Oklahoma City,Abilene,124
+Conroe,Sunnyvale,510
+Round Rock,Middletown,526
+Burleson,Lakewood,370
+Brooklyn Park,Norwalk,485
+Bristol,St. George,952
+Medford,Grand Island,326
+Missouri City,Burien,798
+Rochester,Paramount,326
+Berwyn,Hayward,453
+Highland,Goose Creek,455
+Brooklyn Park,Fremont,274
+Bristol,Thornton,781
+Roseville,Pompano Beach,966
+Hoboken,Escondido,960
+Highland,Seattle,861
+Brooklyn Park,Oklahoma City,417
+Missouri City,Decatur,387
+Paramount,Lakewood,364
+Rancho Palos Verdes,Oklahoma City,275
+Burien,Bentonville,168
+Glendale,Carpentersville,238
+Shawnee,Houston,698
+Broomfield,Pomona,906
+Apple Valley,Tustin,908
+Middletown,Phoenix,645
+Wheaton,Gilroy,850
+Greeley,Long Beach,482
+San Francisco,Green Bay,617
+Novi,Atlanta,946
+Evansville,Urbandale,884
+San Leandro,Escondido,737
+San Ramon,Broomfield,249
+St. George,Marietta,119
+South Gate,Shreveport,609
+San Francisco,Middletown,843
+Tigard,Plano,723
+Redmond,College Station,984
+Mankato,Denton,774
+San Bruno,St. Clair Shores,592
+Glendale,Fremont,373
+Decatur,Berwyn,206
+Carlsbad,Long Beach,409
+Alpharetta,Carlsbad,923
+Mission Viejo,St. Peters,618
+Methuen,Memphis,287
+Milwaukee,Taylor,485
+Hayward,Broomfield,624
+Blaine,West Sacramento,783
+Carlsbad,Mobile,956
+Hialeah,Florence,669
+Tempe,Tustin,271
+Macon,Bell Gardens,153
+Statesboro,Norwalk,521
+Parker,Kirkland,714
+South Jordan,Cleveland,359
+Apple Valley,Highland,891
+Glendale,St. Clair Shores,606
+White Plains,Paramount,350
+Orange,New York,918
+Simi Valley,Chino,764
+South Jordan,Broomfield,110
+Baton Rouge,Lynchburg,620
+Florence,Plano,187
+Newark,New Orleans,291
+Rockford,Medford,516
+White Plains,Carlsbad,255
+Newark,Rochester,591
+Mount Pleasant,Eau Claire,830
+New Braunfels,Eastvale,770
+Bristol,Eastvale,248
+San Bruno,Tallahassee,642
+Mission Viejo,North Las Vegas,224
+San Francisco,Seattle,722
+San Ramon,Tallahassee,202
+Tallahassee,Hoffman Estates,637
+Houston,Georgetown,268
+Lakewood,Carlsbad,478
+South Gate,Chino,934
+Green Bay,Fort Worth,746
+Gainesville,New Brunswick,354
+New Braunfels,Tulsa,554
+South Gate,Newark,479
+Apple Valley,Grand Rapids,642
+Shawnee,Eden Prairie,802
+Hoffman Estates,Bozeman,510
+Gilroy,Mission Viejo,389
+Houston,Methuen,774
+Carrollton,Greeley,391
+Hoboken,Bentonville,402
+Mason,Macon,495
+Valdosta,Simi Valley,651
+Palmdale,Mobile,663
+Dearborn,Gilroy,398
+West Covina,Loveland,931
+Decatur,Orange,333
+St. Peters,Cambridge,895
+Philadelphia,Chino,65
+Altamonte Springs,Lakewood,835
+Oak Lawn,Portland,507
+Redmond,Rowlett,110
+White Plains,Newark,736
+Mason,Berwyn,989
+Lakewood,Urbandale,989
+Baton Rouge,Statesboro,354
+Plymouth,Hialeah,257
+Hialeah,Grand Island,405
+Wichita Falls,Cleveland,610
+Henderson,Missouri City,857
+Boulder,Carpentersville,683
+Pico Rivera,Escondido,679
+Huntersville,Victoria,746
+North Las Vegas,Rowlett,923
+Highland,Stockton,353
+Farmington Hills,St. Petersburg,418
+Huntersville,St. Clair Shores,186
+Oklahoma City,Bakersfield,453
+Altamonte Springs,Edmonds,679
+Portland,Baldwin Park,164
+Kirkland,Oak Lawn,448
+Highland,Portland,209
+Lakewood,Cleveland,195
+Huntersville,Mount Pleasant,869
+Wheaton,Baldwin Park,967
+Lynchburg,Mobile,337
+Hemet,Tustin,179
+Middletown,Urbandale,283
+Blaine,Mission Viejo,631
+Georgetown,Bozeman,632
+Milwaukee,St. Petersburg,951
+West Sacramento,Gilroy,507
+Carlsbad,Burbank,668
+Palatine,Tempe,868
+Granite Bay,Baltimore,337
+Billings,Taylor,637
+Huntersville,Wichita Falls,125
+St. Clair Shores,Bell Gardens,692
+Gilroy,Lake Elsinore,855
+Billings,Tustin,855
+Modesto,Conroe,632
+Berwyn,Phoenix,583
+Apple Valley,Meridian,348
+Plymouth,Brooklyn Park,334
+Roseville,St. Clair Shores,439
+Irvine,Eden Prairie,586
+Glendale,Novi,210
+Stillwater,Stockton,392
+Huntersville,Tallahassee,353
+Downey,Broomfield,288
+San Jose,Hoffman Estates,981
+Billings,Goose Creek,908
+Statesboro,Grand Island,965
+Missouri City,West Haven,663
+Palmdale,Hayward,165
+San Francisco,Midland,864
+South Jordan,Milford,241
+Lacey,Stockton,557
+Ankeny,Fort Worth,770
+Green Bay,St. George,785
+Spokane,San Francisco,134
+Meridian,Shawnee,387
+Evansville,New Brunswick,76
+San Leandro,San Jose,579
+Kearny,Oak Lawn,554
+Oak Lawn,Cambridge,56
+Burnsville,Eden Prairie,206
+Marietta,Hayward,833
+Middletown,Pompano Beach,949
+San Jose,Evansville,310
+Alpharetta,Phoenix,124
+Lubbock,Portland,718
+Macon,Bentonville,468
+San Bruno,Milwaukee,890
+Plymouth,Billings,678
+Riverton,West Jordan,280
+Granite Bay,Berwyn,926
+Indianapolis,Tampa,471
+Rockford,Macon,317
+Pompano Beach,Lawrence,725
+Oakland,Valdosta,570
+Hoboken,Eden Prairie,441
+Mount Pleasant,Oklahoma City,385
+Shawnee,Hemet,735
+Portland,Memphis,590
+Indianapolis,Lakewood,207
+Middletown,Burien,413
+Clearwater,St. Clair Shores,261
+Fremont,Carlsbad,662
+Burbank,Palatine,274
+Billings,Redmond,159
+Oklahoma City,Palmdale,882
+Lawrence,Keller,378
+St. Clair Shores,Midland,303
+Lubbock,Redmond,217
+Escondido,Bentonville,316
+Ankeny,Highland,324
+Rockford,Bristol,544
+Midland,Oakland,120
+Tallahassee,Tampa,267
+Kearny,San Marcos,723
+Hayward,Tampa,765
+Hayward,Ankeny,695
+Oak Lawn,Hialeah,614
+Victoria,South Jordan,284
+Statesboro,Lawrence,467
+Toledo,Lake Havasu City,289
+Boynton Beach,Garland,883
+Medford,Lacey,948
+Anaheim,Oakland,353
+College Station,Berwyn,957
+Lincoln,Valdosta,821
+College Station,Spokane,277
+Grand Island,Palatine,629
+Boynton Beach,Downey,896
+Altamonte Springs,Billings,372
+Coachella,North Richland Hills,606
+Broken Arrow,Keller,855
+Billings,Orange,808
+Georgetown,Marietta,671
+Broken Arrow,Mesa,346
+Eau Claire,Highland,153
+Green Bay,Victoria,273
+Macon,Rancho Palos Verdes,375
+Lincoln,White Plains,488
+Bentonville,Gainesville,105
+Long Beach,Victorville,537
+Blaine,Modesto,630
+Phoenix,Meridian,270
+Novi,Ankeny,919
+Altamonte Springs,Lacey,523
+Anaheim,Highland,433
+Loveland,Green Bay,557
+Bloomington,Tustin,169
+Eden Prairie,Macon,341
+South Jordan,Mount Pleasant,968
+Rockford,San Ramon,465
+Alpharetta,Tustin,880
+St. Clair Shores,Grand Rapids,405
+Fremont,Lake Havasu City,755
+Cambridge,Downey,332
+Palm Beach Gardens,Kirkland,492
+Downey,Parker,831
+Grand Island,Brooklyn Park,978
+Gilroy,Tampa,90
+New Orleans,Rancho Palos Verdes,246
+Charlotte,Burbank,137
+North Richland Hills,San Ramon,650
+Plano,New York,224
+Mobile,Tustin,480
+Urbandale,Tustin,299
+Orange,Blaine,563
+Orange,Mankato,959
+San Bruno,Goose Creek,898
+Altamonte Springs,San Marcos,979
+Lake Elsinore,Coachella,474
+Methuen,Green Bay,837
+Green Bay,Rockford,521
+Shreveport,Haltom City,189
+Huntersville,Spokane,144
+Euless,Glendale,631
+Highland,Modesto,446
+Altamonte Springs,Laredo,899
+Burleson,North Miami,970
+Salt Lake City,Decatur,990
+Florence,Anaheim,913
+Pompano Beach,Burbank,794
+Baton Rouge,Urbandale,295
+Riverton,San Leandro,977
+Plano,Denton,309
+Oak Lawn,Phoenix,120
+Mount Pleasant,Riverton,672
+Evansville,College Station,491
+North Las Vegas,Fort Worth,462
+Paramount,Goose Creek,830
+North Las Vegas,Georgetown,932
+Modesto,Spokane,906
+Houston,Spokane,63
+Hampton,Mobile,381
+Toledo,Altamonte Springs,611
+Thornton,Bloomington,581
+North Las Vegas,St. Peters,711
+Altamonte Springs,San Jose,564
+Gilroy,Tampa,704
+Riverton,Dearborn,910
+Elizabethtown,Lauderhill,561
+West Sacramento,Riverton,694
+Edmonds,San Angelo,522
+Paramount,Lake Havasu City,677
+Coachella,Lynchburg,656
+Brooklyn Park,Stillwater,877
+Dallas,Loveland,618
+St. Peters,Tustin,556
+Broken Arrow,Detroit,339
+Palmdale,Green Bay,457
+Tallahassee,Altamonte Springs,227
+San Leandro,College Station,702
+Grand Island,Palm Bay,319
+Bentonville,Bell Gardens,959
+Urbandale,Elizabethtown,597
+Raleigh,Asheboro,185
+Escondido,Pico Rivera,625
+Georgetown,Las Vegas,772
+Mankato,Chino,670
+Palm Beach Gardens,Georgetown,704
+Bentonville,Newark,856
+Conroe,Brooklyn Park,706
+New Orleans,Methuen,663
+Fort Worth,Greeley,343
+Wichita Falls,Lubbock,437
+Thornton,Lake Havasu City,185
+Novi,Rockford,919
+Hoboken,Spokane,804
+Detroit,Escondido,89
+Hayward,Denton,123
+Baton Rouge,West Covina,327
+Rochester,North Miami,781
+Hemet,Brooklyn Park,149
+Simi Valley,Abilene,915
+San Bruno,Fort Worth,665
+Coachella,Norwalk,928
+Ankeny,San Francisco,249
+Alpharetta,San Francisco,948
+Simi Valley,Mesa,685
+North Miami,Parker,564
+North Richland Hills,Milford,606
+Daly City,Farmington Hills,733
+Riverton,Mankato,842
+Bell Gardens,Middletown,529
+Baton Rouge,Henderson,451
+Valdosta,Bristol,836
+South Gate,Lauderhill,610
+Georgetown,Charlotte,479
+Middletown,Dearborn,519
+Oklahoma City,Portland,666
+Highland,Bell Gardens,866
+Huntersville,Coachella,568
+Carrollton,Paramount,398
+Paramount,Henderson,301
+Lake Elsinore,Victoria,914
+Lynchburg,Hoffman Estates,514
+Hayward,St. George,54
+Broomfield,Eden Prairie,462
+Phoenix,San Jose,893
+Valdosta,North Las Vegas,692
+Macon,St. Petersburg,765
+Euless,Edmonds,379
+Methuen,Mason,878
+Lacey,Cleveland,390
+Evansville,Dearborn,351
+Decatur,Sunnyvale,573
+Palm Beach Gardens,Apple Valley,906
+Gilroy,St. George,401
+Paramount,Coachella,929
+Laredo,Centennial,869
+Keller,Atlanta,657
+Rancho Palos Verdes,Broomfield,713
+Las Vegas,Broken Arrow,683
+Atlanta,Burien,682
+St. Peters,Chino,385
+Baldwin Park,Roseville,160
+South Jordan,St. George,437
+Lakewood,Philadelphia,634
+San Marcos,Coachella,93
+Keller,Evansville,686
+Anaheim,Modesto,376
+Gainesville,Pompano Beach,128
+St. Clair Shores,Carlsbad,914
+St. Clair Shores,Long Beach,903
+Gilroy,Clearwater,328
+Palm Beach Gardens,Broomfield,530
+Tallahassee,Fremont,855
+Lynchburg,Boulder,501
+West Covina,Dallas,939
+Bakersfield,Philadelphia,931
+San Bruno,Lake Elsinore,67
+Broomfield,Palm Bay,537
+Daly City,Middletown,411
+Carlsbad,Lawrence,205
+Medford,Paramount,991
+New York,Chino,354
+Spokane,Georgetown,662
+Grand Rapids,Phoenix,798
+St. Clair Shores,Middletown,954
+West Sacramento,Glendale,548
+Goose Creek,San Marcos,420
+Goose Creek,Pico Rivera,94
+Marietta,Newark,493
+Roseville,Bentonville,278
+Norwalk,Memphis,320
+North Miami,Fremont,978
+Plymouth,Pomona,214
+Bloomington,Kearny,367
+Milford,Anaheim,654
+Milwaukee,Keller,696
+Dallas,Lake Havasu City,200
+Centennial,Salt Lake City,455
+Garland,North Las Vegas,182
+Rowlett,Phoenix,738
+Mount Pleasant,Lake Havasu City,732
+Laredo,New York,769
+Indianapolis,Redmond,883
+Plano,Middletown,321
+Florence,Burleson,728
+South Gate,St. Clair Shores,684
+Lincoln,Baldwin Park,121
+Marietta,Broken Arrow,392
+Henderson,West Covina,724
+Palm Beach Gardens,Lubbock,796
+Laredo,Dearborn,410
+Long Beach,Billings,623
+Phoenix,Victorville,383
+Bentonville,Lacey,626
+South Jordan,Broken Arrow,321
+Blaine,Edmonds,626
+St. Petersburg,Hampton,309
+Edmonds,Bristol,664
+Hemet,Lake Havasu City,178
+Bakersfield,Round Rock,545
+Houston,White Plains,138
+Granite Bay,Haltom City,230
+Victoria,Mount Pleasant,349
+Philadelphia,Statesboro,999
+Hayward,Laredo,432
+Lauderhill,Daly City,459
+South Gate,Florence,658
+Burleson,Lynchburg,502
+Conroe,Evansville,493
+San Jose,Abilene,125
+Tustin,Florence,290
+Newark,Burleson,154
+Auburn,Gilroy,161
+Edmonds,Keller,132
+San Francisco,Boulder,398
+Fremont,Conroe,525
+Wichita Falls,Gainesville,326
+Missouri City,Burbank,841
+Missouri City,Bell Gardens,376
+Tigard,Burnsville,711
+Eastvale,San Leandro,318
+Broken Arrow,West Sacramento,244
+Paramount,Florence,889
+Lincoln,Pico Rivera,948
+Stockton,Goose Creek,474
+Indianapolis,Seattle,103
+Oak Lawn,Bell Gardens,843
+Redmond,St. Clair Shores,931
+Lynchburg,West Sacramento,77
+Portland,Bristol,679
+Altamonte Springs,Daly City,542
+Euless,Valdosta,623
+Rancho Palos Verdes,Atlanta,923
+Gainesville,College Station,779
+Eden Prairie,Valdosta,965
+Salt Lake City,Lake Elsinore,466
+Goose Creek,Oklahoma City,682
+Kirkland,Baltimore,387
+Fort Worth,White Plains,149
+Pomona,Ankeny,392
+Norwalk,Riverton,639
+Berwyn,Wheaton,607
+Oklahoma City,Baltimore,601
+Shawnee,Lynchburg,731
+Evansville,Newark,426
+Baldwin Park,Lauderhill,268
+Edmonds,Paramount,888
+San Leandro,San Ramon,93
+Tallahassee,Lauderhill,994
+Tulsa,Huntersville,428
+Urbandale,Centennial,345
+Tampa,Pompano Beach,885
+Paramount,New Brunswick,482
+Pico Rivera,San Francisco,676
+Abilene,Stillwater,550
+Victorville,Bristol,573
+Salt Lake City,Pompano Beach,303
+Riverton,Hayward,90
+Carrollton,Berwyn,381
+Lake Havasu City,Dallas,691
+Downey,Wichita Falls,968
+Boynton Beach,Eau Claire,746
+Mankato,Novi,322
+Tustin,Eastvale,542
+North Richland Hills,Sunnyvale,341
+Sunnyvale,Lynchburg,954
+Auburn,Victorville,652
+Goose Creek,Rancho Palos Verdes,617
+Bozeman,Hampton,706
+Palm Beach Gardens,Lynchburg,417
+San Francisco,West Jordan,134
+Denton,North Miami,400
+Hayward,San Leandro,185
+Wheaton,Gilroy,794
+Round Rock,San Jose,478
+Daly City,Macon,294
+San Francisco,Kirkland,405
+Palatine,Wichita Falls,792
+Methuen,Mesa,594
+Novi,Fort Worth,474
+San Angelo,Hoboken,766
+Glendale,Lakewood,820
+New Brunswick,Urbandale,80
+Midland,Palm Bay,691
+Burleson,Boynton Beach,561
+San Ramon,Lynchburg,308
+Kearny,Atlanta,774
+Mankato,Oak Lawn,281
+Carrollton,Palm Bay,819
+Cleveland,Shawnee,307
+Cleveland,Anaheim,242
+Dallas,Dearborn,923
+Haltom City,Burbank,956
+Seattle,Bozeman,317
+Greeley,Redmond,53
+Toledo,Mobile,173
+Plano,Billings,649
+Broken Arrow,Hialeah,340
+Plymouth,Apple Valley,893
+Carrollton,St. Petersburg,563
+New Brunswick,Roseville,730
+Simi Valley,Wichita Falls,587
+Tallahassee,Escondido,771
+Oak Lawn,Round Rock,70
+Greeley,Middletown,486
+Mankato,West Covina,367
+Burnsville,Lawrence,948
+North Miami,Oakland,709
+Lincoln,Houston,51
+Victoria,Burbank,394
+Clearwater,Grand Island,488
+Salt Lake City,Lake Elsinore,730
+San Marcos,Philadelphia,986
+Palmdale,Lauderhill,415
+Baldwin Park,Carrollton,620
+Tallahassee,Oak Lawn,609
+New Braunfels,Riverton,352
+White Plains,Burbank,715
+Milwaukee,Detroit,713
+St. Clair Shores,Mission Viejo,694
+North Miami,Tulsa,368
+Berwyn,Tigard,309
+San Angelo,Bozeman,959
+Bell Gardens,Chino,792
+Urbandale,Lake Elsinore,561
+Stillwater,Meridian,919
+Garland,Portland,537
+Tustin,Decatur,790
+Denton,Henderson,944
+Escondido,Downey,799
+Midland,South Jordan,247
+Hemet,Norwalk,831
+Tallahassee,Kearny,434
+Rochester,South Jordan,732
+Thornton,Rowlett,651
+Huntersville,Eden Prairie,822
+West Haven,Pompano Beach,398
+Auburn,Goose Creek,313
+Palm Bay,West Jordan,542
+Florence,Rockford,878
+Middletown,Henderson,809
+Shawnee,Novi,579
+Lynchburg,Lubbock,465
+Eau Claire,Kirkland,915
+Eau Claire,St. George,857
+San Ramon,Grand Island,717
+Euless,Middletown,881
+West Covina,Gainesville,170
+Burleson,West Jordan,375
+Florence,Lawrence,86
+Dearborn,Riverton,599
+Hoffman Estates,West Jordan,481
+Dallas,Broomfield,756
+Huntersville,Plymouth,334
+Carlsbad,Lacey,274
+South Gate,Carpentersville,689
+Baldwin Park,Norwalk,469
+Irvine,Bentonville,312
+Auburn,Bozeman,825
+Dearborn,West Haven,646
+Lawrence,Tustin,339
+Middletown,North Las Vegas,474
+Brooklyn Park,Cambridge,152
+Loveland,Hialeah,991
+Glendale,Shreveport,167
+Modesto,Tallahassee,798
+Eden Prairie,West Jordan,975
+Missouri City,Wheaton,239
+Gilroy,Burleson,362
+New Braunfels,San Marcos,700
+New York,Stockton,614
+Indianapolis,Asheboro,206
+Bozeman,Victoria,138
+San Jose,Highland,627
+San Leandro,Mount Pleasant,827
+Asheboro,Kearny,403
+Garland,Spokane,664
+Valdosta,Mesa,872
+Florence,Burnsville,435
+Escondido,Lynchburg,342
+Memphis,Roseville,230
+Keller,Elizabethtown,966
+Macon,Broomfield,493
+Lynchburg,Centennial,828
+Round Rock,Tigard,836
+Oklahoma City,Memphis,458
+Detroit,Middletown,705
+Auburn,Memphis,585
+Asheboro,Ankeny,219
+Dallas,Cambridge,920
+Decatur,Downey,602
+Burnsville,Gainesville,422
+Billings,Chino,765
+Florence,Raleigh,452
+Oakland,Lake Elsinore,718
+Mobile,Edmonds,831
+Oklahoma City,Portland,237
+Indianapolis,Hoffman Estates,258
+Greeley,Palmdale,177
+Salt Lake City,Midland,540
+Florence,New Orleans,787
+Mankato,Farmington Hills,208
+Palmdale,Elizabethtown,704
+White Plains,Oklahoma City,626
+Florence,Escondido,420
+Bakersfield,Detroit,470
+Baton Rouge,Burbank,751
+Blaine,West Sacramento,751
+Missouri City,Palatine,343
+Hayward,Atlanta,835
+New York,Fremont,437
+Stockton,Cleveland,157
+San Ramon,Garland,697
+Middletown,Hoboken,747
+Long Beach,Highland,453
+Broken Arrow,Palatine,976
+Tigard,West Jordan,436
+Burleson,Eden Prairie,825
+New Braunfels,Sunnyvale,177
+Farmington Hills,Greeley,772
+Burnsville,Lauderhill,582
+Billings,Sunnyvale,804
+Green Bay,Grand Island,487
+Bakersfield,New Orleans,716
+San Angelo,Anaheim,361
+Phoenix,South Gate,596
+Philadelphia,San Jose,128
+Lakewood,Stockton,351
+Phoenix,Shreveport,687
+Irvine,Hialeah,420
+Glendale,Oklahoma City,858
+Midland,Evansville,698
+Lubbock,Bozeman,412
+Laredo,Taylor,494
+Florence,Marietta,688
+Escondido,Las Vegas,417
+Plano,Hayward,339
+Glendale,Anaheim,599
+Haltom City,Loveland,90
+Downey,Modesto,701
+Philadelphia,Toledo,867
+Broomfield,Hampton,599
+Mesa,Paramount,738
+Grand Island,Portland,222
+Brooklyn Park,Escondido,140
+Raleigh,Philadelphia,176
+Macon,Highland,130
+Middletown,Oakland,79
+Lincoln,Hampton,313
+San Leandro,Denton,925
+Broken Arrow,Henderson,115
+Alpharetta,Conroe,889
+Long Beach,Kirkland,687
+Loveland,San Francisco,952
+Downey,Hayward,497
+Tempe,Oak Lawn,717
+Denton,Cleveland,400
+South Gate,Daly City,923
+Raleigh,Denton,300
+Billings,Missouri City,686
+Marietta,Gainesville,182
+Plymouth,West Haven,60
+Coachella,Simi Valley,180
+Mobile,Palm Beach Gardens,946
+Mankato,Milford,649
+Statesboro,Shreveport,286
+Rowlett,Lubbock,996
+Grand Island,Redmond,249
+Grand Island,Tampa,235
+White Plains,Huntersville,845
+South Gate,Lake Havasu City,150
+Garland,Hialeah,544
+Lakewood,Tallahassee,698
+Round Rock,Chino,927
+Newark,Norwalk,587
+Memphis,Clearwater,398
+Baton Rouge,Newark,590
+Denton,Greeley,897
+Milford,Billings,513
+Grand Rapids,Tempe,390
+Milwaukee,West Jordan,58
+Redmond,Georgetown,221
+Pico Rivera,Anaheim,839
+Euless,St. George,74
+Hoffman Estates,Tempe,483
+Hampton,Lauderhill,605
+Farmington Hills,Haltom City,473
+West Jordan,New Brunswick,575
+Lawrence,Tempe,910
+Blaine,Loveland,845
+Rochester,St. Petersburg,174
+Tustin,Boulder,517
+New Brunswick,Rowlett,886
+Bentonville,Altamonte Springs,412
+Asheboro,Methuen,726
+Redmond,South Gate,324
+Garland,Berwyn,508
+Cleveland,Roseville,126
+West Covina,Palm Bay,539
+Roseville,Orange,541
+Baldwin Park,Lynchburg,214
+Eastvale,Burien,805
+Thornton,West Covina,902
+Salt Lake City,San Ramon,183
+Lauderhill,Oak Lawn,236
+Henderson,White Plains,149
+Edmonds,New Brunswick,245
+Hayward,Redmond,452
+Greeley,Kearny,427
+Anaheim,Roseville,741
+Las Vegas,Brooklyn Park,459
+Victorville,Eau Claire,761
+Missouri City,Cleveland,226
+Baltimore,Haltom City,314
+Eau Claire,Dallas,929
+Eastvale,Pompano Beach,351
+Lakewood,New Braunfels,591
+Rancho Palos Verdes,New Brunswick,617
+Detroit,Shawnee,586
+Bell Gardens,Huntersville,608
+Hayward,Statesboro,900
+Meridian,Pomona,803
+New Braunfels,Evansville,362
+Plymouth,Conroe,142
+Eastvale,Indianapolis,515
+Laredo,Lake Havasu City,600
+Greeley,Oklahoma City,980
+Blaine,Wichita Falls,437
+Valdosta,Edmonds,875
+Oakland,Palm Beach Gardens,630
+Spokane,San Angelo,371
+Plymouth,Round Rock,87
+San Leandro,Victoria,421
+Mission Viejo,Elizabethtown,259
+Toledo,Stillwater,115
+Burnsville,Milford,478
+Lubbock,San Angelo,939
+Novi,Urbandale,658
+Redmond,St. Peters,557
+Bloomington,Keller,703
+Tigard,Eastvale,927
+Stillwater,Burbank,796
+San Angelo,Decatur,794
+Meridian,Euless,728
+Baltimore,Asheboro,908
+Milwaukee,Newark,671
+Bentonville,Seattle,448
+Bristol,Chino,435
+Garland,Henderson,249
+Billings,Taylor,496
+Valdosta,San Francisco,667
+Anaheim,Orange,983
+Boulder,San Angelo,970
+Medford,Bentonville,293
+Macon,St. Petersburg,113
+Chino,Mesa,264
+Paramount,Meridian,67
+Round Rock,Medford,556
+Sunnyvale,Spokane,176
+Burien,New Orleans,482
+Billings,New York,870
+Downey,Redmond,815
+Long Beach,Marietta,158
+Baton Rouge,San Angelo,651
+Burnsville,Decatur,618
+Abilene,Daly City,428
+New Orleans,Shreveport,995
+Rochester,Abilene,487
+Pico Rivera,Euless,898
+San Angelo,Charlotte,773
+Greeley,Oklahoma City,413
+Hayward,Cleveland,549
+Dallas,Tampa,260
+Toledo,Cleveland,658
+Chino,Gilroy,895
+Highland,Downey,818
+Norwalk,Euless,947
+Lynchburg,Hoboken,741
+Burbank,Highland,316
+Cambridge,Tampa,468
+Dearborn,Rochester,302
+Green Bay,Paramount,308
+Granite Bay,Novi,745
+West Haven,Hoffman Estates,816
+Phoenix,Fremont,380
+Stillwater,St. George,900
+Victorville,Pico Rivera,826
+Pomona,Palm Bay,172
+Phoenix,Gainesville,109
+Bristol,Baldwin Park,944
+Berwyn,New Brunswick,159
+San Jose,Stockton,89
+Centennial,Grand Rapids,366
+Simi Valley,Chino,751
+Wichita Falls,Parker,307
+New Brunswick,Tustin,814
+Lauderhill,Las Vegas,644
+Glendale,Altamonte Springs,391
+Keller,South Gate,915
+Burnsville,Paramount,530
+Marietta,North Las Vegas,868
+Evansville,Oak Lawn,202
+Parker,Bloomington,532
+Broomfield,Lauderhill,560
+Norwalk,Lake Elsinore,862
+Spokane,Baton Rouge,407
+Auburn,Oak Lawn,728
+Shawnee,Daly City,255
+South Gate,Decatur,246
+Oakland,Parker,970
+Marietta,New Braunfels,805
+Glendale,Pomona,166
+Rochester,Escondido,225
+Shreveport,Baton Rouge,203
+Cambridge,Edmonds,522
+Taylor,Berwyn,719
+Fremont,Lake Elsinore,745
+Tallahassee,Hoffman Estates,192
+White Plains,Tampa,758
+San Angelo,Riverton,757
+Hampton,Simi Valley,504
+Marietta,Euless,225
+Berwyn,Plymouth,377
+Tustin,Oakland,863
+Mason,Escondido,899
+New York,Toledo,669
+Coachella,Lawrence,395
+Plano,Lincoln,319
+Eastvale,Palm Bay,476
+St. Petersburg,Mesa,189
+Mission Viejo,North Richland Hills,773
+Eau Claire,Kearny,342
+Mason,Lakewood,757
+Florence,Mankato,219
+Asheboro,Tempe,463
+Wichita Falls,Medford,388
+South Gate,Burien,350
+Pompano Beach,Gainesville,971
+Tampa,Brooklyn Park,91
+Pico Rivera,Tustin,245
+Bentonville,Modesto,602
+Haltom City,Farmington Hills,985
+Hampton,South Jordan,275
+West Covina,Hoffman Estates,737
+St. Peters,Blaine,754
+Salt Lake City,Brooklyn Park,948
+Kearny,White Plains,746
+Hoboken,Lynchburg,221
+Las Vegas,North Miami,632
+Mission Viejo,Spokane,328
+Medford,Mankato,499
+Billings,Burnsville,892
+New York,Dallas,352
+Denton,Abilene,682
+Apple Valley,Broomfield,291
+Round Rock,Tigard,250
+Pomona,Portland,744
+Conroe,Toledo,989
+Simi Valley,Burnsville,898
+Rockford,Rowlett,106
+Green Bay,Bloomington,869
+Atlanta,North Miami,513
+Fremont,Burnsville,167
+Highland,Lincoln,869
+Florence,Palm Bay,463
+Grand Rapids,Victoria,724
+Green Bay,Mission Viejo,517
+Orange,San Ramon,836
+Palm Bay,Irvine,100
+Ankeny,Victorville,580
+Highland,Lauderhill,109
+Burbank,Pompano Beach,748
+Grand Island,Eau Claire,66
+Meridian,San Angelo,467
+Palmdale,North Las Vegas,966
+Lynchburg,Greeley,853
+Phoenix,Irvine,573
+North Miami,Apple Valley,146
+Brooklyn Park,Daly City,797
+Carlsbad,Abilene,590
+Burbank,West Covina,835
+Round Rock,Fort Worth,322
+Asheboro,Eau Claire,535
+Grand Rapids,Gainesville,390
+Rancho Palos Verdes,Phoenix,463
+Glendale,White Plains,238
+Blaine,Baldwin Park,749
+Victorville,Keller,884
+Evansville,Lake Havasu City,528
+Pico Rivera,Garland,294
+Escondido,Palmdale,970
+Palmdale,Fremont,782
+Seattle,Mobile,969
+San Leandro,Fort Worth,579
+Plano,Novi,788
+Cleveland,Statesboro,461
+Granite Bay,Conroe,286
+Taylor,Conroe,439
+Stillwater,Haltom City,766
+West Haven,Plymouth,356
+Philadelphia,Macon,481
+Milford,Midland,564
+San Ramon,Kirkland,533
+Green Bay,Apple Valley,267
+San Ramon,Rockford,393
+Tampa,Redmond,893
+Eau Claire,North Miami,231
+Shawnee,Pomona,458
+New Orleans,Farmington Hills,235
+Fort Worth,Wheaton,493
+Marietta,Tallahassee,71
+Urbandale,Plano,56
+New York,Raleigh,821
+Milford,Palatine,323
+Taylor,Hoffman Estates,893
+Hayward,Grand Rapids,821
+Asheboro,Auburn,572
+South Gate,Phoenix,776
+Cambridge,Mobile,973
+Lubbock,Palm Bay,763
+Kearny,Rochester,415
+Abilene,Rowlett,835
+Anaheim,Pompano Beach,133
+Charlotte,San Angelo,513
+Salt Lake City,Granite Bay,895
+Baltimore,Anaheim,532
+Bakersfield,Parker,942
+Eden Prairie,Loveland,619
+Escondido,Tallahassee,806
+Shawnee,Garland,264
+Cleveland,Hoffman Estates,247
+Apple Valley,Mobile,476
+Pomona,Statesboro,822
+Mesa,Coachella,410
+Elizabethtown,Decatur,351
+Cambridge,Bentonville,780
+Norwalk,Midland,678
+Wheaton,South Gate,710
+Henderson,Oak Lawn,75
+Blaine,Modesto,749
+Hialeah,Highland,777
+Downey,Denton,977
+Kearny,Chino,506
+Gainesville,Haltom City,81
+Novi,Simi Valley,762
+Raleigh,Dearborn,430
+Mankato,Plymouth,333
+Carlsbad,Blaine,750
+Houston,Gilroy,647
+Mobile,Tempe,79
+Palm Bay,Rancho Palos Verdes,450
+Burien,Clearwater,67
+Pompano Beach,Tempe,558
+Bozeman,Plymouth,696
+White Plains,New Braunfels,420
+Bentonville,Paramount,694
+Macon,College Station,518
+White Plains,New Braunfels,814
+Tigard,Charlotte,937
+Eden Prairie,St. Petersburg,863
+Grand Rapids,Tempe,736
+Lynchburg,Baltimore,581
+Altamonte Springs,Stockton,489
+Redmond,Granite Bay,389
+Fort Worth,Broomfield,641
+Missouri City,West Covina,188
+San Leandro,Sunnyvale,955
+Keller,Laredo,245
+Newark,Valdosta,841
+Long Beach,Las Vegas,990
+Glendale,San Marcos,937
+South Jordan,St. Petersburg,402
+Lacey,Mason,231
+Tigard,Burien,458
+Tulsa,Eau Claire,780
+Centennial,Novi,949
+Victorville,Missouri City,395
+Boynton Beach,Phoenix,259
+Valdosta,North Richland Hills,307
+Green Bay,Plymouth,571
+Berwyn,Wheaton,97
+New York,Lawrence,615
+Lake Havasu City,Redmond,78
+Raleigh,Burien,692
+Medford,Thornton,862
+Kearny,Hampton,937
+Ankeny,San Ramon,599
+Abilene,St. Clair Shores,664
+West Haven,Oklahoma City,77
+Granite Bay,Billings,528
+North Richland Hills,Auburn,363
+Meridian,Richmond,837
+Victoria,Keller,642
+Baltimore,Escondido,718
+Apple Valley,Hoffman Estates,922
+Gilroy,Broomfield,312
+West Haven,Altamonte Springs,327
+St. Peters,Lincoln,113
+Mission Viejo,Medford,196
+San Jose,Newark,643
+Georgetown,San Jose,883
+St. Petersburg,Palm Bay,577
+Edmonds,Burnsville,968
+Tigard,Bentonville,617
+Simi Valley,South Gate,627
+New Orleans,Parker,837
+Rockford,Milwaukee,536
+Newark,Carpentersville,299
+Victorville,Oklahoma City,292
+Eden Prairie,Medford,431
+Garland,Tempe,687
+Tempe,Atlanta,681
+Eastvale,Bozeman,171
+Hoboken,Edmonds,162
+Gilroy,Lawrence,945
+West Haven,Raleigh,638
+Shreveport,Thornton,258
+Methuen,New Brunswick,397
+Plano,Victoria,733
+Kirkland,San Francisco,836
+Thornton,Lubbock,178
+Palm Beach Gardens,Bakersfield,993
+Altamonte Springs,Philadelphia,179
+Rowlett,Plymouth,133
+Hemet,Broken Arrow,68
+Decatur,Oklahoma City,190
+Spokane,Centennial,199
+Spokane,Tigard,346
+Victoria,Fort Worth,910
+Hemet,San Francisco,705
+New Braunfels,Victoria,381
+Altamonte Springs,Portland,174
+Daly City,Pomona,685
+Hoffman Estates,Round Rock,313
+San Marcos,Dearborn,278
+Brooklyn Park,Newark,899
+Hoboken,Urbandale,468
+Macon,Farmington Hills,640
+Tallahassee,Phoenix,583
+Altamonte Springs,Anaheim,88
+Bristol,Cleveland,681
+Hoffman Estates,Rochester,599
+Valdosta,Denton,994
+Conroe,Sunnyvale,511
+Dallas,Atlanta,846
+Carpentersville,Escondido,275
+Huntersville,Burbank,209
+Palmdale,Escondido,251
+Eden Prairie,Alpharetta,434
+Daly City,Downey,475
+Lakewood,Lincoln,638
+Broken Arrow,Marietta,525
+Meridian,Parker,349
+Orange,Burbank,697
+Seattle,Downey,310
+Mason,Grand Island,744
+Wheaton,Rochester,206
+Oklahoma City,Sunnyvale,273
+Mission Viejo,Riverton,729
+Tallahassee,Bozeman,478
+Salt Lake City,Centennial,530
+San Angelo,Palmdale,617
+West Covina,Phoenix,336
+White Plains,New York,890
+Wichita Falls,Macon,523
+Ankeny,New Brunswick,733
+Clearwater,Salt Lake City,252
+Toledo,Lynchburg,821
+Shawnee,New Brunswick,286
+Eden Prairie,Hemet,671
+Dearborn,Stockton,465
+Mission Viejo,Lake Havasu City,198
+Spokane,Huntersville,209
+Plano,Shreveport,104
+Altamonte Springs,Carlsbad,500
+Pico Rivera,Memphis,930
+Coachella,Baton Rouge,135
+Rancho Palos Verdes,Urbandale,666
+Lubbock,Denton,796
+Eden Prairie,Escondido,314
+Stillwater,Berwyn,441
+Blaine,Macon,714
+Thornton,Medford,187
+Abilene,Berwyn,653
+Palm Beach Gardens,Lake Havasu City,425
+Parker,New Braunfels,615
+Lake Elsinore,Hialeah,59
+Mount Pleasant,Pico Rivera,324
+Mankato,North Miami,348
+Bristol,Plymouth,769
+Green Bay,Baton Rouge,440
+San Angelo,Boynton Beach,475
+Georgetown,Houston,597
+Riverton,Bentonville,532
+Elizabethtown,Fremont,903
+Hoboken,Glendale,826
+Cleveland,Palm Bay,436
+Lawrence,Carrollton,898
+Eastvale,Dearborn,145
+Palmdale,North Richland Hills,143
+Newark,Modesto,772
+Fort Worth,Oak Lawn,263
+Orange,Lauderhill,337
+Loveland,Gilroy,289
+Victoria,Stockton,254
+Palatine,San Angelo,581
+Chino,Berwyn,308
+White Plains,Lynchburg,268
+Pompano Beach,Kirkland,856
+Broken Arrow,Dearborn,864
+Mobile,Kirkland,203
+Paramount,Salt Lake City,514
+Auburn,Bristol,866
+San Leandro,Marietta,846
+Baltimore,Laredo,630
+Wichita Falls,Downey,506
+Pomona,Tempe,945
+Rancho Palos Verdes,Tampa,791
+Palm Beach Gardens,Euless,840
+West Jordan,Dallas,112
+College Station,Florence,343
+Hialeah,Medford,678
+Novi,Taylor,866
+Huntersville,Bloomington,355
+Lincoln,Centennial,387
+Oakland,Orange,986
+Lubbock,Tallahassee,512
+Meridian,Bozeman,299
+Ankeny,Philadelphia,293
+St. Petersburg,White Plains,259
+Medford,Rancho Palos Verdes,888
+Altamonte Springs,Richmond,989
+Gilroy,St. Clair Shores,920
+Laredo,Greeley,276
+Euless,Spokane,339
+Baldwin Park,North Las Vegas,750
+Modesto,Laredo,824
+Berwyn,Redmond,84
+Long Beach,Coachella,776
+Clearwater,Denton,618
+Tempe,Milford,520
+Round Rock,Baton Rouge,680
+Valdosta,Irvine,141
+Burleson,Pomona,192
+Sunnyvale,Palm Bay,908
+Mankato,Rowlett,101
+Pomona,Baltimore,169
+Philadelphia,Highland,383
+New Braunfels,Oak Lawn,473
+Carlsbad,Methuen,685
+Hemet,Meridian,813
+Decatur,Paramount,147
+Shreveport,North Miami,517
+Broken Arrow,Brooklyn Park,317
+Middletown,Meridian,796
+Boulder,Greeley,947
+Denton,Ankeny,266
+Coachella,Statesboro,213
+West Jordan,Thornton,175
+Modesto,Milwaukee,918
+Eau Claire,Coachella,471
+Burbank,Lake Havasu City,712
+Victoria,Lawrence,532
+Escondido,Pico Rivera,839
+Baton Rouge,Pomona,142
+Boulder,Palm Bay,381
+Palmdale,Bristol,510
+Palatine,Midland,242
+Rowlett,Tempe,425
+Eden Prairie,Hialeah,257
+Burleson,Missouri City,254
+Roseville,Mesa,174
+Daly City,Lakewood,793
+Denton,Decatur,232
+Newark,Round Rock,712
+New Orleans,San Bruno,677
+Bozeman,Redmond,286
+Lake Havasu City,Portland,408
+Berwyn,White Plains,534
+Glendale,New York,898
+Oak Lawn,South Jordan,644
+Lake Havasu City,Parker,339
+Tulsa,New Braunfels,754
+Shawnee,Mankato,331
+Henderson,Carpentersville,117
+Kearny,Anaheim,397
+Evansville,Palm Bay,949
+College Station,Lauderhill,195
+Georgetown,Lauderhill,548
+Tulsa,Laredo,417
+Evansville,Mobile,770
+Palm Bay,Burbank,544
+Clearwater,Hoffman Estates,623
+Florence,West Haven,807
+Medford,Wheaton,935
+Dallas,New Orleans,121
+Alpharetta,New Brunswick,417
+Hoffman Estates,Garland,350
+Tigard,Boulder,208
+Oklahoma City,Missouri City,323
+Auburn,Valdosta,542
+Florence,St. Peters,824
+Gilroy,Berwyn,686
+Houston,Las Vegas,833
+Granite Bay,Pico Rivera,273
+Indianapolis,Detroit,816
+Victoria,Wichita Falls,360
+Greeley,Lawrence,887
+Newark,Philadelphia,561
+Bell Gardens,New Braunfels,750
+Orange,Escondido,698
+Denton,Novi,397
+Shawnee,Victorville,808
+College Station,Tulsa,253
+Lake Elsinore,Euless,929
+Indianapolis,Marietta,435
+Cambridge,West Covina,687
+Urbandale,Seattle,748
+Auburn,Round Rock,351
+Huntersville,Carlsbad,225
+Riverton,White Plains,305
+Rancho Palos Verdes,Asheboro,761
+Statesboro,Rowlett,388
+Centennial,Missouri City,306
+Oklahoma City,Bell Gardens,895
+Hoffman Estates,Macon,386
+Toledo,Henderson,159
+Mission Viejo,Mason,823
+Grand Rapids,Mount Pleasant,637
+Keller,Lawrence,489
+Spokane,Lacey,380
+Goose Creek,Rochester,79
+Dallas,Detroit,450
+Richmond,Lubbock,197
+Memphis,Raleigh,141
+Apple Valley,Pico Rivera,331
+Hoboken,Modesto,847
+Victorville,Coachella,682
+Detroit,Grand Island,649
+Taylor,Fremont,477
+Round Rock,Lawrence,490
+Highland,West Sacramento,334
+Indianapolis,Shawnee,455
+Hayward,Daly City,424
+Lakewood,Bell Gardens,467
+Middletown,Grand Island,529
+Pico Rivera,Spokane,515
+Tustin,Palmdale,259
+Palmdale,Rochester,959
+Auburn,Carrollton,721
+Valdosta,Hoffman Estates,573
+Boulder,Blaine,202
+Pomona,Bloomington,218
+Lakewood,Palatine,594
+San Leandro,White Plains,528
+Boulder,Eastvale,276
+Evansville,Hoffman Estates,495
+Novi,Hoffman Estates,748
+Tustin,Clearwater,221
+Phoenix,Long Beach,348
+Spokane,Richmond,437
+Bloomington,Daly City,180
+Broken Arrow,Burnsville,95
+Burbank,Bristol,151
+Mason,Wichita Falls,824
+Seattle,Pico Rivera,532
+Shawnee,Bentonville,531
+Grand Rapids,Florence,203
+Bakersfield,Tigard,746
+Oklahoma City,Raleigh,681
+Loveland,Pico Rivera,644
+Charlotte,Tustin,738
+Modesto,Auburn,216
+Marietta,Abilene,245
+Novi,Daly City,565
+Middletown,Baldwin Park,646
+Victoria,Dearborn,641
+Lakewood,Eden Prairie,766
+Tulsa,Redmond,594
+Las Vegas,Eden Prairie,588
+Lacey,Missouri City,127
+Stillwater,Oklahoma City,447
+Tampa,St. George,149
+Atlanta,New Orleans,560
+White Plains,Mason,315
+Norwalk,Victorville,186
+St. Clair Shores,Eden Prairie,295
+Riverton,Tempe,459
+Eastvale,Florence,208
+Greeley,Medford,332
+Elizabethtown,Daly City,444
+Victoria,Grand Rapids,87
+Parker,Middletown,681
+Pomona,Newark,924
+Laredo,Houston,278
+Oakland,South Gate,470
+Berwyn,West Haven,812
+Rancho Palos Verdes,Toledo,993
+Norwalk,Mount Pleasant,370
+Mankato,Simi Valley,630
+Carrollton,Abilene,491
+Apple Valley,Oak Lawn,611
+Lincoln,Rochester,991
+Hayward,South Gate,941
+Blaine,Kearny,287
+Gilroy,Mesa,798
+South Gate,Toledo,675
+Lubbock,Hialeah,875
+Dearborn,Auburn,92
+Fort Worth,Bloomington,211
+San Jose,Broken Arrow,535
+Palatine,San Leandro,754
+Bloomington,North Miami,528
+Missouri City,Blaine,170
+Auburn,Lubbock,178
+Plymouth,Bell Gardens,747
+Mission Viejo,Seattle,542
+New Orleans,Dallas,175
+Oklahoma City,Baton Rouge,228
+West Sacramento,South Jordan,535
+New Brunswick,Houston,511
+South Jordan,Pomona,639
+Bloomington,Henderson,954
+Milford,Clearwater,823
+Palmdale,Berwyn,548
+Fort Worth,Medford,739
+Meridian,Valdosta,446
+Broken Arrow,Orange,487
+Wichita Falls,Paramount,595
+Wichita Falls,Carrollton,532
+Riverton,Bakersfield,257
+Wichita Falls,Irvine,508
+Mason,Escondido,378
+New Brunswick,Richmond,412
+St. Peters,Baldwin Park,136
+West Jordan,Novi,127
+Memphis,Eau Claire,212
+Eau Claire,Simi Valley,631
+Centennial,Indianapolis,334
+Taylor,Conroe,140
+Oakland,New Brunswick,609
+Keller,Tustin,169
+San Angelo,Orange,627
+Centennial,Oakland,387
+San Leandro,Centennial,494
+Macon,Brooklyn Park,95
+Plano,Lauderhill,861
+Marietta,Charlotte,157
+Palm Bay,Roseville,514
+New Braunfels,Parker,809
+Bentonville,Spokane,165
+Baton Rouge,Alpharetta,65
+Mount Pleasant,Brooklyn Park,887
+Hemet,Auburn,91
+Carlsbad,Spokane,85
+Meridian,Lake Elsinore,261
+Coachella,San Angelo,714
+Coachella,White Plains,157
+Roseville,Denton,462
+Hialeah,Highland,811
+Hampton,Green Bay,356
+Gainesville,Escondido,425
+Auburn,Milwaukee,651
+Valdosta,Burien,900
+San Leandro,Euless,558
+Eau Claire,Cambridge,992
+Redmond,Tampa,300
