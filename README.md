@@ -1,10 +1,10 @@
 # Road-Network-Analysis-in-Neo4j
 
 Objective
- 
+
 To understand and apply Neo4j’s graph database capabilities by loading a road network dataset and executing various Cypher queries. This assignment will help you build skills in data loading, query optimization, and network analysis within Neo4j.
- 
-Dataset 
+
+Datasets 
 Your dataset will represent connections between cities, with each connection having a specified distance. The data should be structured in a CSV file with three columns: city1, city2, and distance. For example:
 city1   City2       Distance
 Atlanta Dallas      800
@@ -13,18 +13,18 @@ Detroit Chicago     300
 Chicago Boston      190
 
 TASKS: Part 1: Generating the Dataset
- 
+
 You can generate a dataset for this assignment using a simple Python generator or using the Faker library. Make sure your dataset adheres to the following criteria:
 Network Structure: Ensure the dataset represents a connected road network with distances between specified cities.
-Uniqueness: Ensure that there are no duplicate entries for city pairs in the city1 and city2 columns. If the same city pair appears multiple times (e.g., city1 to city2 with a distance of 300 miles), modify your dataset to prevent this repetition (same as city2 city 1). Each pair of cities should only appear once with a specific distance. If there are multiple routes or paths between the same cities, consider differentiating them by adding a unique identifier or using an alternative method to avoid exact duplicates. 
-Size: Generate a dataset of 10000 rows (200 nodes, and to 3000 unique edges). Unique road connections between these cities with different distances. 
+Uniqueness: Ensure that there are no duplicate entries for city pairs in the city1 and city2 columns. If the same city pair appears multiple times (e.g., city1 to city2 with a distance of 300 miles), modify your dataset to prevent this repetition (same as city2 city 1). Each pair of cities should only appear once with a specific distance. If there are multiple routes or paths between the same cities, consider differentiating them by adding a unique identifier or using an alternative method to avoid exact duplicates.
+Size: Generate a dataset of 10000 rows (200 nodes, and to 3000 unique edges). Unique road connections between these cities with different distances.
 The cities that you will use are listed in the attached text files (cityNames.txt).
 Connectivity: Ensure that each city has multiple incoming and outgoing paths to create a realistic network.
 With 3,000 edges, each city would have an average of 15 connections (incoming and outgoing), which is both rich in connectivity and reasonable in complexity.
 
 
 TASKS PART 2: Answer the following questions
- 
+
 Main Tasks:
 1. List Roads from/to a Specific City with Distances and Destinations
  Retrieve all roads (connections) from or to a specific city (e.g., "Atlanta") and show the destination cities and distances.
@@ -57,7 +57,7 @@ Find cities that have both incoming and outgoing connections, listing the total 
 Identify the top three pairs of cities with the longest direct distance between them.
 
 
-Deliverables 
+Deliverables
 
 Cypher Code:
 Provide the Neo4j Cypher queries used to complete each of the tasks.
